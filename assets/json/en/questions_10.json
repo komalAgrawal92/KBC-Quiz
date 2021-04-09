@@ -1,0 +1,359 @@
+[
+  {
+    "question": "In mythology, who among these gets their name by virtue of being the daughter of mountain?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Parvati",
+        "correct": "yes"
+      },
+      {
+        "option": "Sita",
+        "correct": "no"
+      },
+      {
+        "option": "Aditi",
+        "correct": "no"
+      },
+      {
+        "option": "Draupadi",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these foods is usually prepared by roasting",
+    "level": "1",
+    "options": [
+      {
+        "option": "Kachori",
+        "correct": "no"
+      },
+      {
+        "option": "Roomali Roti",
+        "correct": "yes"
+      },
+      {
+        "option": "Poori",
+        "correct": "no"
+      },
+      {
+        "option": "Samosa",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these banks can you Not take a personal loan?",
+    "level": "1",
+    "options": [
+      {
+        "option": "State Bank Of India",
+        "correct": "no"
+      },
+      {
+        "option": "Union Bank Of India",
+        "correct": "no"
+      },
+      {
+        "option": "Punjab National Bank",
+        "correct": "no"
+      },
+      {
+        "option": "Reserve Bank Of India",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these iconic villains of Hindi Cinema made his appearance first, before the other three",
+    "level": "1",
+    "options": [
+      {
+        "option": "Mogambo",
+        "correct": "no"
+      },
+      {
+        "option": "Gabbar Singh",
+        "correct": "yes"
+      },
+      {
+        "option": "Shakal",
+        "correct": "no"
+      },
+      {
+        "option": "Langda Tyagi",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these expression is often used on social media when someone is surprised or excited about something?",
+    "level": "1",
+    "options": [
+      {
+        "option": "TTYL",
+        "correct": "no"
+      },
+      {
+        "option": "OMG",
+        "correct": "yes"
+      },
+      {
+        "option": "ASAP",
+        "correct": "no"
+      },
+      {
+        "option": "IDK",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these exercises normally engages your arms the most",
+    "level": "1",
+    "options": [
+      {
+        "option": "Crunches",
+        "correct": "no"
+      },
+      {
+        "option": "Push-ups",
+        "correct": "yes"
+      },
+      {
+        "option": "Squats",
+        "correct": "no"
+      },
+      {
+        "option": "Sit-ups",
+        "correct": "no"
+      }
+    ]
+  },
+
+
+  {
+    "question": "The first bullet train proposed in 2014-15 railway budget, will connect which two cities?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Delhi-Agra",
+        "correct": "no"
+      },
+      {
+        "option": "Bengaluru-Chennai",
+        "correct": "no"
+      },
+      {
+        "option": "Mumbai -Ahmedabad",
+        "correct": "yes"
+      },
+      {
+        "option": "Mumbai-Pune",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "On a football field which of these is nearest to the goal post?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Corner arc",
+        "correct": "no"
+      },
+      {
+        "option": "Penalty mark",
+        "correct": "yes"
+      },
+      {
+        "option": "Halfway line",
+        "correct": "no"
+      },
+      {
+        "option": "Central circle",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "What number is halfway between 11 and 19?",
+    "level": "2",
+    "options": [
+      {
+        "option": "13",
+        "correct": "no"
+      },
+      {
+        "option": "14",
+        "correct": "no"
+      },
+      {
+        "option": "15",
+        "correct": "yes"
+      },
+      {
+        "option": "16",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is an essential component of most acids?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Nitrogen",
+        "correct": "no"
+      },
+      {
+        "option": "Hydrogen",
+        "correct": "yes"
+      },
+      {
+        "option": "Oxygen",
+        "correct": "no"
+      },
+      {
+        "option": "Helium",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "The sign for which mathematical function is the logo of the Red Cross society?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Addition",
+        "correct": "yes"
+      },
+      {
+        "option": "Subtraction",
+        "correct": "no"
+      },
+      {
+        "option": "Multiplication",
+        "correct": "no"
+      },
+      {
+        "option": "Division",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Who is the first woman cricketer to win the Arjuna Award?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Diana Eduljee",
+        "correct": "no"
+      },
+      {
+        "option": "Anjali Jain",
+        "correct": "no"
+      },
+      {
+        "option": "Mithali Raj",
+        "correct": "no"
+      },
+      {
+        "option": "Shanta Rangaswamy",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Who is the subject of Sanjaya Baru’s book, The Accidental Prime Minister?",
+    "level": "3",
+    "options": [
+      {
+        "option": "H D Deve Gowda",
+        "correct": "no"
+      },
+      {
+        "option": "Inder Kumar Gujral",
+        "correct": "no"
+      },
+      {
+        "option": "Manmohan Singh",
+        "correct": "yes"
+      },
+      {
+        "option": "Rajiv Gandhi",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these MPs became the first BJP leader to present the rail budget in the Parliament?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Sadanand Gowda",
+        "correct": "yes"
+      },
+      {
+        "option": "Ram Naik",
+        "correct": "no"
+      },
+      {
+        "option": "Yaswant Sinha",
+        "correct": "no"
+      },
+      {
+        "option": "Jaswant Singh",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "According to the 2011 census which of these states enjoys a literacy rate of over 90%?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Punjab",
+        "correct": "no"
+      },
+      {
+        "option": "Mizoram",
+        "correct": "yes"
+      },
+      {
+        "option": "Tripura",
+        "correct": "no"
+      },
+      {
+        "option": "Gujarat",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "On which mythical character’s wish did yamraj return the sight of her blind father in law Dyumatsen and also his kingdom?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Savitri",
+        "correct": "yes"
+      },
+      {
+        "option": "Shakuntala",
+        "correct": "no"
+      },
+      {
+        "option": "Ahilya",
+        "correct": "no"
+      },
+      {
+        "option": "Gandhari",
+        "correct": "no"
+      }
+    ]
+  }
+]

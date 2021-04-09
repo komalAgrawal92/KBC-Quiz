@@ -1,0 +1,361 @@
+[
+
+  {
+    "question": "What would you be using in India if you needed an STD code?",
+    "level": "1",
+    "options": [
+      {
+        "option": "ATM",
+        "correct": "no"
+      },
+      {
+        "option": "Photo copier",
+        "correct": "no"
+      },
+      {
+        "option": "Computer",
+        "correct": "no"
+      },
+      {
+        "option": "Telephone",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these numbers is only divisible by 1 and itself?",
+    "level": "1",
+    "options": [
+      {
+        "option": "12",
+        "correct": "no"
+      },
+      {
+        "option": "13",
+        "correct": "yes"
+      },
+      {
+        "option": "14",
+        "correct": "no"
+      },
+      {
+        "option": "15",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "What is the main ingredient of Kulcha in Matar Kulcha or Chole Kulcha?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Daal",
+        "correct": "no"
+      },
+      {
+        "option": "Maida",
+        "correct": "yes"
+      },
+      {
+        "option": "Besan",
+        "correct": "no"
+      },
+      {
+        "option": "Suji",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Banganapalli and Kesar are varieties of which of these fruits?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Apple",
+        "correct": "no"
+      },
+      {
+        "option": "Pear",
+        "correct": "no"
+      },
+      {
+        "option": "Guava",
+        "correct": "no"
+      },
+      {
+        "option": "Mango",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "According to a Hindi proverb, how does a dudh ka jala drink his chanch?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Nitar nitar kar",
+        "correct": "no"
+      },
+      {
+        "option": "Soongh soongh kar",
+        "correct": "no"
+      },
+      {
+        "option": "Phook phook kar",
+        "correct": "yes"
+      },
+      {
+        "option": "Ithla ithla kar",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is generally eaten with spiced water?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Bhel puri",
+        "correct": "no"
+      },
+      {
+        "option": "Raj Kachori",
+        "correct": "no"
+      },
+      {
+        "option": "Gol Guppa",
+        "correct": "yes"
+      },
+      {
+        "option": "Sev puri",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which demon is shown alongside goddess Durga in puja pandals during the traditional Durga Puja celebrations?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Bakasura",
+        "correct": "no"
+      },
+      {
+        "option": "Vanasura",
+        "correct": "no"
+      },
+      {
+        "option": "Bhasmasura",
+        "correct": "no"
+      },
+      {
+        "option": "Mahisashura",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "With which of these states does Telengana not share its border?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Tamil Nadu",
+        "correct": "yes"
+      },
+      {
+        "option": "Karnataka",
+        "correct": "no"
+      },
+      {
+        "option": "Chattisgarh",
+        "correct": "no"
+      },
+      {
+        "option": "Maharashtra",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "In which of the following events will the fastest person win?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Marathon",
+        "correct": "yes"
+      },
+      {
+        "option": "Diving",
+        "correct": "no"
+      },
+      {
+        "option": "Weightlifting",
+        "correct": "no"
+      },
+      {
+        "option": "Shot Put",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which is the only one of these creatures to not walk on four legs?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Giraffe",
+        "correct": "no"
+      },
+      {
+        "option": "Ostrich",
+        "correct": "yes"
+      },
+      {
+        "option": "Gorilla",
+        "correct": "no"
+      },
+      {
+        "option": "Rhinoceros",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these is shorter than 1 inch?",
+    "level": "2",
+    "options": [
+      {
+        "option": "2 Centimeter",
+        "correct": "yes"
+      },
+      {
+        "option": "3 Centimeter",
+        "correct": "no"
+      },
+      {
+        "option": "4 Centimeter",
+        "correct": "no"
+      },
+      {
+        "option": "5 Centimeter",
+        "correct": "no"
+      }
+    ]
+  },
+  
+  {
+    "question": "Which dance form is believed to have been inspired from Gotipua Nritya?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Manipuri",
+        "correct": "no"
+      },
+      {
+        "option": "Kuchipudi",
+        "correct": "no"
+      },
+      {
+        "option": "Odissi",
+        "correct": "yes"
+      },
+      {
+        "option": "Kathakali",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Who became the chief minister of Bihar in 2014?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Nitish Kumar",
+        "correct": "yes"
+      },
+      {
+        "option": "Vijay Kumar Chaudhary",
+        "correct": "no"
+      },
+      {
+        "option": "Narendra Narayan Yadav",
+        "correct": "no"
+      },
+      {
+        "option": "Jeetan Ram Majhi",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these temples is located in Kathmandu, the capital of Nepal?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Kamakhya temple",
+        "correct": "no"
+      },
+      {
+        "option": "Pashupatinath temple",
+        "correct": "yes"
+      },
+      {
+        "option": "Viswanath temple",
+        "correct": "no"
+      },
+      {
+        "option": "Baba Baidyanath temple",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Before 2014, when was the last time in India that a single party majority was formed at the centre?",
+    "level": "3",
+    "options": [
+      {
+        "option": "1984",
+        "correct": "yes"
+      },
+      {
+        "option": "1991",
+        "correct": "no"
+      },
+      {
+        "option": "1990",
+        "correct": "no"
+      },
+      {
+        "option": "1999",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Who holds the record for scoring the fastest half century in IPL?",
+    "level": "3",
+    "options": [
+      {
+        "option": "KL Rahul",
+        "correct": "yes"
+      },
+      {
+        "option": "Yusuf Pathan",
+        "correct": "no"
+      },
+      {
+        "option": "Robin Uthappa",
+        "correct": "no"
+      },
+      {
+        "option": "Glen Maxwell",
+        "correct": "no"
+      }
+    ]
+  }
+]

@@ -1,0 +1,357 @@
+[
+  {
+  "question":"Which of these food items is normally not prepared in a tandoor?",
+  "level":"1",
+  "options":[
+    {
+      "option":"Seekh Kebab",
+      "correct":"no"
+    },
+    {
+      "option":"Naan",
+      "correct":"no"
+    },
+    {
+      "option":"Samosa",
+      "correct":"yes"
+    },
+    {
+      "option":"Paneer Tikka",
+      "correct":"no"
+    }
+  ]
+},
+  {
+    "question":"Who among the following is also known as Vimaan Paricharika in Hindi?",
+    "level":"1",
+    "options":[
+      {
+        "option":"Pilot",
+        "correct":"no"
+      },
+      {
+        "option":"Air Hostess",
+        "correct":"yes"
+      },
+      {
+        "option":"Aeronautical Engineer",
+        "correct":"no"
+      },
+      {
+        "option":"Air Traffic Controller",
+        "correct":"no"
+      }
+    ]
+  },
+
+  {
+    "question":"Which of these organisms naturally produce the antibiotics penicillin?",
+    "level":"1",
+    "options":[
+      {
+        "option":"Algae",
+        "correct":"no"
+      },
+      {
+        "option":"Fungi",
+        "correct":"yes"
+      },
+      {
+        "option":"Bacteria",
+        "correct":"no"
+      },
+      {
+        "option":"Protozoa",
+        "correct":"no"
+      }
+    ]
+  },
+  {
+    "question":"In mythology, which of the following is also called Dhaneshwar and Dhanadip?",
+    "level":"1",
+    "options":[
+      {
+        "option":"Ganesha",
+        "correct":"no"
+      },
+      {
+        "option":"Agni",
+        "correct":"no"
+      },
+      {
+        "option":"Kubera",
+        "correct":"yes"
+      },
+      {
+        "option":"Surya",
+        "correct":"no"
+      }
+    ]
+  },
+  {
+    "question":"Which of these food items is a sweet?",
+    "level":"1",
+    "options":[
+      {
+        "option":"Poha",
+        "correct":"no"
+      },
+      {
+        "option":"Litti",
+        "correct":"no"
+      },
+      {
+        "option":"Mysore Pak",
+        "correct":"yes"
+      },
+      {
+        "option":"Dahi Vada",
+        "correct":"no"
+      }
+    ]
+  },
+  {
+    "question":"Which of these are arranged in a game of Sudoku?",
+    "level":"1",
+    "options":[
+      {
+        "option":"Words",
+        "correct":"no"
+      },
+      {
+        "option":"Numbers",
+        "correct":"yes"
+      },
+      {
+        "option":"Cards",
+        "correct":"no"
+      },
+      {
+        "option":"Pictures",
+        "correct":"no"
+      }
+    ]
+  },
+  {
+    "question":"Who, along with Esther Duflo, has co-authored the 2011 book Poor Economics for Hard Times?",
+    "level":"2",
+    "options":[
+      {
+        "option":"Nitin Nohria",
+        "correct":"no"
+      },
+      {
+        "option":"Abhijit Banerjee",
+        "correct":"yes"
+      },
+      {
+        "option":"Raghuram Rajan",
+        "correct":"no"
+      },
+      {
+        "option":"Arvind Subramanian",
+        "correct":"no"
+      }
+    ]
+  },
+  {
+    "question": "For whom did Allama Iqbal write these lines, “Hind ko Ek Mard-e-Kamil Ne Jagaya Khwab Se?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Guru Nanak",
+        "correct": "yes"
+      },
+      {
+        "option": "Nizamuddin Auliya",
+        "correct": "no"
+      },
+      {
+        "option": "Ranjit Singh",
+        "correct": "no"
+      },
+      {
+        "option": "Mirza Ghalib",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "According to Indian Scripture what is “Vaitarani” or “Vaitarna”?",
+    "level":"2",
+    "options": [
+      {
+        "option": "River in Naraklok",
+        "correct": "yes"
+      },
+      {
+        "option": "Spear of Yama",
+        "correct": "no"
+      },
+      {
+        "option": "Yama’s brother",
+        "correct": "no"
+      },
+      {
+        "option": "Main gate of Swargalok",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these fibres is obtained from the substance around the seeds of a plant?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Jute",
+        "correct": "no"
+      },
+      {
+        "option": "Hemp",
+        "correct": "no"
+      },
+      {
+        "option": "Flax",
+        "correct": "no"
+      },
+      {
+        "option": "Cotton",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "What is the name given to the proposed expressway linking Meerut and Prayagraj which the Uttar Pradesh government announced in January 2019?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Yamuna Expressway",
+        "correct": "no"
+      },
+      {
+        "option": "Gomti Expressway",
+        "correct": "no"
+      },
+      {
+        "option": "Chambal Expressway",
+        "correct": "no"
+      },
+      {
+        "option": "Ganga Expressway",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Who was sworn in as the 11th chief minister of his state in 2019 after the demise of Manohar Parrikar?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Pramod Sawant",
+        "correct": "yes"
+      },
+      {
+        "option": "Sudin Dhavalikar",
+        "correct": "no"
+      },
+      {
+        "option": "Laxmikant Parsekar",
+        "correct": "no"
+      },
+      {
+        "option": "Rajesh Patnekar",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "The Arabian Nights stories are told by Shahrazad to which king?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Shah Alam",
+        "correct": "no"
+      },
+      {
+        "option": "Shahzaman",
+        "correct": "no"
+      },
+      {
+        "option": "Shahjahan",
+        "correct": "no"
+      },
+      {
+        "option": "Shahryar",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "N R Narayan  Murthy, the co-founder of Infosys, is the father-in-law of which British MP?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Seema Kennedy",
+        "correct": "no"
+      },
+      {
+        "option": "Alok Sharmna",
+        "correct": "no"
+      },
+      {
+        "option": "Rishi Sunak",
+        "correct": "yes"
+      },
+      {
+        "option": "Preet Gill",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "In the guns AK-47 and AK-56, if A stands for ‘Avtomat’ a Russian word for automatic, then what does K stand for? ",
+    "level": "3",
+    "options": [
+      {
+        "option": "Kalashnikova",
+        "correct": "yes"
+      },
+      {
+        "option": "Kalasnic",
+        "correct": "no"
+      },
+      {
+        "option": "Kafelnikova",
+        "correct": "no"
+      },
+      {
+        "option": "Kremlin",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "During the tenure of which Chief Election Commissioner of India were elector’s photo identity cards were introduced for all voters?",
+    "level": "3",
+    "options": [
+      {
+        "option": "M S Gill",
+        "correct": "no"
+      },
+      {
+        "option": "S Y Quraishi",
+        "correct": "no"
+      },
+      {
+        "option": "J M Lyngdoh",
+        "correct": "no"
+      },
+      {
+        "option": "T N Seshan",
+        "correct": "yes"
+      }
+    ]
+  }
+]

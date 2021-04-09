@@ -1,0 +1,361 @@
+[
+
+  {
+    "question": "In the Mahabharata, if Bhishma was the first Kaurava commander during the Kurukshetrea War, who was the last?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Shalya",
+        "correct": "no"
+      },
+      {
+        "option": "Krishna",
+        "correct": "no"
+      },
+      {
+        "option": "Dronacharya",
+        "correct": "no"
+      },
+      {
+        "option": "Ashwatthama",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "To calculate the speed of an object, what valued would you required apart from the distance travelled?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Time",
+        "correct": "yes"
+      },
+      {
+        "option": "Weight",
+        "correct": "no"
+      },
+      {
+        "option": "Voltage",
+        "correct": "no"
+      },
+      {
+        "option": "Density",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these can be transferred from one person to another through ‘dakhil-kharij’?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Jewellery",
+        "correct": "no"
+      },
+      {
+        "option": "Bank Account",
+        "correct": "no"
+      },
+      {
+        "option": "Government Job",
+        "correct": "no"
+      },
+      {
+        "option": "Land",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "Where was the “Howdy, Modi!” event held?",
+    "level": "1",
+    "options": [
+      {
+        "option": "New York City",
+        "correct": "no"
+      },
+      {
+        "option": "Houston",
+        "correct": "yes"
+      },
+      {
+        "option": "Washington DC",
+        "correct": "no"
+      },
+      {
+        "option": "Chicago",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these is a Central Government saving scheme for the education and marriage of girls?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Sukanya Samriddhi Yojana",
+        "correct": "yes"
+      },
+      {
+        "option": "Ujjwala Yojana",
+        "correct": "no"
+      },
+      {
+        "option": "Rajshree Yojana",
+        "correct": "no"
+      },
+      {
+        "option": "Jeevan Jyoti Yojana",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "According to Mahabharata, which of these sons of Dhritarashtra  was not Gandhari’s son?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Dushasana",
+        "correct": "no"
+      },
+      {
+        "option": "Jalagandha",
+        "correct": "no"
+      },
+      {
+        "option": "Yuyutsu",
+        "correct": "yes"
+      },
+      {
+        "option": "Suhasta",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "In Hindu mythology, Rishi Vasisitha was a preceptor of which clan?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Ikshvaku",
+        "correct": "yes"
+      },
+      {
+        "option": "Paurava",
+        "correct": "no"
+      },
+      {
+        "option": "Kuru",
+        "correct": "no"
+      },
+      {
+        "option": "Nishaad",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Robusta and Arabica are used to prepare which of these beverages?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Tea",
+        "correct": "no"
+      },
+      {
+        "option": "Coffee",
+        "correct": "yes"
+      },
+      {
+        "option": "Cola",
+        "correct": "no"
+      },
+      {
+        "option": "Lemonade",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these was enacted in the year 2005 and modified in 2019?",
+    "level": "2",
+    "options": [
+      {
+        "option": "National Register of Citizens",
+        "correct": "no"
+      },
+      {
+        "option": "Right to Information",
+        "correct": "yes"
+      },
+      {
+        "option": "Benami Transactions (Prohibition)",
+        "correct": "no"
+      },
+      {
+        "option": "Goods and Services Tax",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these actors has not yet won the National Film Award for Best Actor?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Irrfan Khan",
+        "correct": "no"
+      },
+      {
+        "option": "Saif Ali Khan",
+        "correct": "no"
+      },
+      {
+        "option": "Akshay Kumar",
+        "correct": "no"
+      },
+      {
+        "option": "Nawazuddin Siddiqui",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Who is the first wrestler to win the Rajiv Gandhi Khel Ratna?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Yogeshwar Dutt",
+        "correct": "no"
+      },
+      {
+        "option": "Sushil Kumar",
+        "correct": "no"
+      },
+      {
+        "option": "Bajrang Punia",
+        "correct": "yes"
+      },
+      {
+        "option": "Amit Kumar",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "A medical college in Karnal that was established in 2017 is named after which personality?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Har Gobind Khorana",
+        "correct": "no"
+      },
+      {
+        "option": "Kapil Dev",
+        "correct": "no"
+      },
+      {
+        "option": "Kalpana Chawala",
+        "correct": "yes"
+      },
+      {
+        "option": "Sunil Dutt",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these political parties has at least one representative in the current Lok Sabha?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Rashtriya Janata Dal",
+        "correct": "no"
+      },
+      {
+        "option": "Rashtriya Lok Dal",
+        "correct": "no"
+      },
+      {
+        "option": "J & K Peoples Democratic Party",
+        "correct": "no"
+      },
+      {
+        "option": "Telugu Desam Party",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "The 2019 Nobel Prize in Physics was awarded to three scientists for their work on understanding what?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Gravitational Waves",
+        "correct": "no"
+      },
+      {
+        "option": "Origin of Subatomic Particles",
+        "correct": "no"
+      },
+      {
+        "option": "Earth’s Place in the Cosmos",
+        "correct": "yes"
+      },
+      {
+        "option": "Superfluids",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "In the 1930s, a Calcutta businessman bought 10,000 acres from the local raja to found to which town for Anglo-Indian settlers?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Darjeeling",
+        "correct": "no"
+      },
+      {
+        "option": "McLedoganj",
+        "correct": "no"
+      },
+      {
+        "option": "McCluskieganj",
+        "correct": "yes"
+      },
+      {
+        "option": "Lansdowne",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which is the largest aircraft by wight ever built?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Airbus A380 -800B",
+        "correct": "no"
+      },
+      {
+        "option": "Antonov AN-225 Mriya",
+        "correct": "yes"
+      },
+      {
+        "option": "Antonov AN-124 Ruslan",
+        "correct": "no"
+      },
+      {
+        "option": "Hughes H-4 Hercules",
+        "correct": "no"
+      }
+    ]
+  }
+]

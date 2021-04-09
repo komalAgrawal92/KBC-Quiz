@@ -1,0 +1,358 @@
+[
+  {
+    "question": "Who was known as the Iron Man of India?",
+    "options": [
+      {
+        "option": "Govind Ballabh Pant",
+        "correct": "no"
+      },
+      {
+        "option": "Jawaharlal Nehru",
+        "correct": "no"
+      },
+      {
+        "option": "Bhagat Singh",
+        "correct": "no"
+      },
+      {
+        "option": "Sardar Vallabhbhai Patel",
+        "correct": "yes"
+      }
+    ],
+    "level" : "1"
+  },
+
+  {
+    "question": "The 'sasural' of which of these international sports person from India is in Pakistan?",
+    "options": [
+      {
+        "option": "Saina Nehwal",
+        "correct": "no"
+      },
+      {
+        "option": "Sania Mirza",
+        "correct": "yes"
+      },
+      {
+        "option": "Anjum Chopra",
+        "correct": "no"
+      },
+      {
+        "option": "Anisa Sayyed",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which branded uses the tagline \"the taste of India\"",
+    "options": [
+      {
+        "option": "Cadbury",
+        "correct": "no"
+      },
+      {
+        "option": "Nestle",
+        "correct": "no"
+      },
+      {
+        "option": "Amul",
+        "correct": "yes"
+      },
+      {
+        "option": "Pepsi",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which TV Gameshow popularised the catchphrase \"Kitne pratishat Bhartiya...\"?",
+    "options": [
+      {
+        "option": "Kaun Banega Crorepati",
+        "correct": "no"
+      },
+      {
+        "option": "Dus ka Dum",
+        "correct": "yes"
+      },
+      {
+        "option": "Deal Ya no deal",
+        "correct": "no"
+      },
+      {
+        "option": "Naaptol Lottery",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which of these ingredients is not traditionally used in making the offering called 'Panchamrit' or 'Five Nectars'?",
+    "options": [
+      {
+        "option": "Ghee",
+        "correct": "no"
+      },
+      {
+        "option": "Besan",
+        "correct": "yes"
+      },
+      {
+        "option": "Honey",
+        "correct": "no"
+      },
+      {
+        "option": "Milk",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+
+  {
+    "question": "Which actress played female protagonist in the movie adaption of Chetan Bhagat's novel, 2 States?",
+    "options": [
+      {
+        "option": "Deepika Padukone",
+        "correct": "no"
+      },
+      {
+        "option": "Anushka Sharma",
+        "correct": "no"
+      },
+      {
+        "option": "Alia Bhatt",
+        "correct": "yes"
+      },
+      {
+        "option": "Sonam Kapoor",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which is the largest country (in size) in the world?",
+    "options": [
+      {
+        "option": "Russia",
+        "correct": "yes"
+      },
+      {
+        "option": "America",
+        "correct": "no"
+      },
+      {
+        "option": "China",
+        "correct": "no"
+      },
+      {
+        "option": "Canada",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Which country below is NOT the permanent member of the UN security council (2020)?",
+    "options": [
+      {
+        "option": "Germany",
+        "correct": "yes"
+      },
+      {
+        "option": "France",
+        "correct": "no"
+      },
+      {
+        "option": "Russia",
+        "correct": "no"
+      },
+      {
+        "option": "China",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Areas of which of the following current states did not come under control of Vijayanagar emperor Krishnadeva Raya?",
+    "options": [
+      {
+        "option": "Maharashtra",
+        "correct": "yes"
+      },
+      {
+        "option": "Tamil Nadu",
+        "correct": "no"
+      },
+      {
+        "option": "Telangana",
+        "correct": "no"
+      },
+      {
+        "option": "Andhra Pradhesh",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Which of these countries was the first to establish regular trade with India?",
+    "options": [
+      {
+        "option": "Britain",
+        "correct": "yes"
+      },
+      {
+        "option": "France",
+        "correct": "no"
+      },
+      {
+        "option": "Portugal",
+        "correct": "no"
+      },
+      {
+        "option": "Spain",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Which of these musicians was one of Akbar's nine gems?",
+    "options": [
+      {
+        "option": "Baiju Bawra",
+        "correct": "no"
+      },
+      {
+        "option": "Amir Khusrau",
+        "correct": "no"
+      },
+      {
+        "option": "Tansen",
+        "correct": "yes"
+      },
+      {
+        "option": "Haridas",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+
+  {
+    "question": "Germany’s invasion of which country started World War-II?",
+    "options": [
+      {
+        "option": "France",
+        "correct": "no"
+      },
+      {
+        "option": "Poland",
+        "correct": "yes"
+      },
+      {
+        "option": "Russia",
+        "correct": "no"
+      },
+      {
+        "option": "Switzerland",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "Which country won the first football World Cup?",
+    "options": [
+      {
+        "option": "Brazil",
+        "correct": "no"
+      },
+      {
+        "option": "Uruguay",
+        "correct": "yes"
+      },
+      {
+        "option": "Italy",
+        "correct": "no"
+      },
+      {
+        "option": "Argentina",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "The smallest Asian country in terms of both population and area?",
+    "options": [
+      {
+        "option": "Cook Island",
+        "correct": "no"
+      },
+      {
+        "option": "Sri Lanka",
+        "correct": "no"
+      },
+      {
+        "option": "Afghanistan",
+        "correct": "no"
+      },
+      {
+        "option": "Maldive",
+        "correct": "yes"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "How many judges were present in judicial panel of Ayodhya verdict in 2019?",
+    "options": [
+      {
+        "option": "Seven",
+        "correct": "no"
+      },
+      {
+        "option": "Five",
+        "correct": "yes"
+      },
+      {
+        "option": "Three",
+        "correct": "no"
+      },
+      {
+        "option": "Eleven",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "The web of the spider is made up of which among the following?",
+    "options": [
+      {
+        "option": "Carbohydrate Polymers",
+        "correct": "no"
+      },
+      {
+        "option": "Protiens",
+        "correct": "yes"
+      },
+      {
+        "option": "Lipids",
+        "correct": "no"
+      },
+      {
+        "option": "Polysaccharides",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  }
+
+]

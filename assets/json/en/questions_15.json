@@ -1,0 +1,363 @@
+[
+
+  {
+    "question": "For which of these activities would you need a licence issued by a government of India authority?",
+    "level": "1",
+    "options": [
+      {
+        "option": "To clean",
+        "correct": "no"
+      },
+      {
+        "option": "To drive",
+        "correct": "yes"
+      },
+      {
+        "option": "To sing",
+        "correct": "no"
+      },
+      {
+        "option": "To cook",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Mithun, Simha and Kumbh are examples of which of these?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Varieties of mangoes",
+        "correct": "no"
+      },
+      {
+        "option": "Rivers",
+        "correct": "no"
+      },
+      {
+        "option": "Vegetables",
+        "correct": "no"
+      },
+      {
+        "option": "Zodiac signs ",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "Which two words are required to complete this saying about living beyond one’s means: Aamdani_______, Kharcha ______?\n",
+    "level": "1",
+    "options": [
+      {
+        "option": "Chavanni, Saikda",
+        "correct": "no"
+      },
+      {
+        "option": "Athanni, Rupaiya",
+        "correct": "yes"
+      },
+      {
+        "option": "Ek Anna, Char Anna",
+        "correct": "no"
+      },
+      {
+        "option": "Bees Paise, Chhattis Rupaiye",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "If commercial vehicles have yellow number plates, then what colour is associated with electric vehicles since August 2018?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Green",
+        "correct": "yes"
+      },
+      {
+        "option": "Black",
+        "correct": "no"
+      },
+      {
+        "option": "Red",
+        "correct": "no"
+      },
+      {
+        "option": "Brown",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of the following is a team event, not an individual event?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Kho-Kho",
+        "correct": "yes"
+      },
+      {
+        "option": "Wrestling",
+        "correct": "no"
+      },
+      {
+        "option": "Boxing",
+        "correct": "no"
+      },
+      {
+        "option": "Weightlifting",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "According to an idiom, being in water, one should not be at loggerheads with which of these?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Haathi",
+        "correct": "no"
+      },
+      {
+        "option": "Bandar",
+        "correct": "no"
+      },
+      {
+        "option": "Bagula",
+        "correct": "no"
+      },
+      {
+        "option": "Magarmachch",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Divya, Akanksha, Pratima and Prashanti Singh are sisters who have represented India in which sport?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Wrestling",
+        "correct": "no"
+      },
+      {
+        "option": "Basketball",
+        "correct": "yes"
+      },
+      {
+        "option": "Hockey",
+        "correct": "no"
+      },
+      {
+        "option": "Football",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these legitimate deliveries in cricket would typically rise the highest after pitching?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Leg-break",
+        "correct": "no"
+      },
+      {
+        "option": "Off-break",
+        "correct": "no"
+      },
+      {
+        "option": "Yorker",
+        "correct": "no"
+      },
+      {
+        "option": "Bouncer",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "How many persons with the surname Patnaik have served as chief minister of Odisha?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Three",
+        "correct": "yes"
+      },
+      {
+        "option": "Two",
+        "correct": "no"
+      },
+      {
+        "option": "Four",
+        "correct": "no"
+      },
+      {
+        "option": "One",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these disease is not included in the Government of India’s vaccination drive, Mission Indradhanush?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Tetanus",
+        "correct": "no"
+      },
+      {
+        "option": "Whooping Cough",
+        "correct": "no"
+      },
+      {
+        "option": "Measles",
+        "correct": "no"
+      },
+      {
+        "option": "Night-blindness",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "How many coastal states are there in India?",
+    "level":"2",
+    "options": [
+      {
+        "option": "7",
+        "correct": "no"
+      },
+      {
+        "option": "8",
+        "correct": "no"
+      },
+      {
+        "option": "9",
+        "correct": "yes"
+      },
+      {
+        "option": "10",
+        "correct": "no"
+      },
+      {
+        "question": "Which of these personalities kept a portrait of Gandhiji, along with that of physicists Isaac Netwon, Michael Faraday and James Clerk Maxwell in his house at Princeton?",
+        "level":"3",
+        "options": [
+          {
+            "option": "Albert Einstein",
+            "correct": "yes"
+          },
+          {
+            "option": "Thomas Edison",
+            "correct": "no"
+          },
+          {
+            "option": "Nikola Tesla",
+            "correct": "no"
+          },
+          {
+            "option": "Marie Curie",
+            "correct": "no"
+          }
+        ]
+      },
+      {
+        "question": "The 2019 Nobel Peace Prize has been awarded to Abiy Ahmed Ali particularly to end border conflict with which country?",
+        "level":"3",
+        "options": [
+          {
+            "option": "South Sudan",
+            "correct": "no"
+          },
+          {
+            "option": "Kenya",
+            "correct": "no"
+          },
+          {
+            "option": "Sundan",
+            "correct": "no"
+          },
+          {
+            "option": "Eritrea",
+            "correct": "yes"
+          }
+        ]
+      },
+      {
+        "question": "Which country will Bhasha Mukherjee represent at the Miss World 2019 contest?",
+        "level":"3",
+        "options": [
+          {
+            "option": "Australia",
+            "correct": "no"
+          },
+          {
+            "option": "Canada",
+            "correct": "no"
+          },
+          {
+            "option": "England",
+            "correct": "yes"
+          },
+          {
+            "option": "India",
+            "correct": "no"
+          }
+        ]
+      },
+
+      {
+        "question": "Which of these films won four National Film Awards – Best Music Director and Best Art Direction?",
+        "level":"3",
+        "options": [
+          {
+            "option": "Umrao Jaan",
+            "correct": "yes"
+          },
+          {
+            "option": "Mother India",
+            "correct": "no"
+          },
+          {
+            "option": "Arth",
+            "correct": "no"
+          },
+          {
+            "option": "Pakeezah",
+            "correct": "no"
+          }
+        ]
+      },
+      {
+        "question": "The real name of which of these present or former Members of Parliament is Rajeshwar Prasad Bidhuri?",
+        "level":"3",
+        "options": [
+          {
+            "option": "Raj Babbar",
+            "correct": "no"
+          },
+          {
+            "option": "Rajnath Singh",
+            "correct": "no"
+          },
+          {
+            "option": "Rajesh Pilot",
+            "correct": "yes"
+          },
+          {
+            "option": "Rajesh Khanna",
+            "correct": "no"
+          }
+        ]
+      }
+    ]
+  }
+]

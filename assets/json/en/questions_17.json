@@ -1,0 +1,359 @@
+[
+
+  {
+    "question": "From which organ in the mother’s body does the human fetus receive nutrition?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Stomach",
+        "correct": "no"
+      },
+      {
+        "option": "Liver",
+        "correct": "no"
+      },
+      {
+        "option": "Uterus",
+        "correct": "no"
+      },
+      {
+        "option": "Placenta",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these is the oldest veda?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Sama",
+        "correct": "no"
+      },
+      {
+        "option": "Yajur",
+        "correct": "no"
+      },
+      {
+        "option": "Rig",
+        "correct": "yes"
+      },
+      {
+        "option": "Atharva",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these do you have to enter while performing an online banking transaction?",
+    "level": "1",
+    "options": [
+      {
+        "option": "DPO",
+        "correct": "no"
+      },
+      {
+        "option": "RTI",
+        "correct": "no"
+      },
+      {
+        "option": "OTP",
+        "correct": "yes"
+      },
+      {
+        "option": "LOL",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these are equal in an equilateral triangle?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Perimeters",
+        "correct": "no"
+      },
+      {
+        "option": "Arcs",
+        "correct": "no"
+      },
+      {
+        "option": "Areas",
+        "correct": "no"
+      },
+      {
+        "option": "Angles",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "According to an idiom, without  which of these can the flute not be played?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Palash",
+        "correct": "no"
+      },
+      {
+        "option": "Baans",
+        "correct": "yes"
+      },
+      {
+        "option": "Ghaas",
+        "correct": "no"
+      },
+      {
+        "option": "Mithaas",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which is the only Indian state to currently have a woman chief minster?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Assam",
+        "correct": "no"
+      },
+      {
+        "option": "Tamil Nadu",
+        "correct": "no"
+      },
+      {
+        "option": "West Bengal",
+        "correct": "yes"
+      },
+      {
+        "option": "Rajasthan",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "In which sport have Jitu Rai, Ronjan Sodhi and Heena Sidhu represented India at the International level?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Boxing",
+        "correct": "no"
+      },
+      {
+        "option": "Shooting",
+        "correct": "yes"
+      },
+      {
+        "option": "Wrestling",
+        "correct": "no"
+      },
+      {
+        "option": "Hockey",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Bariatric surgery is usually performed on whom?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Obese People",
+        "correct": "yes"
+      },
+      {
+        "option": "Heart Patients",
+        "correct": "no"
+      },
+      {
+        "option": "Cancer Patients",
+        "correct": "no"
+      },
+      {
+        "option": "Blind People",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "A player in which of these sports or games has not yet received the Rajiv Gandhi Khel Ratna award?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Chess",
+        "correct": "no"
+      },
+      {
+        "option": "Yachting",
+        "correct": "no"
+      },
+      {
+        "option": "Boxing",
+        "correct": "no"
+      },
+      {
+        "option": "Football",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these crafts is most associated with Kashmir?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Warli painting",
+        "correct": "no"
+      },
+      {
+        "option": "Phulkari Embroidery",
+        "correct": "no"
+      },
+      {
+        "option": "Bamboo Mat Paintings",
+        "correct": "no"
+      },
+      {
+        "option": "Papier Mache",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these champion athletes is not correctly matched with their sport?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Lionel Messi – Foootball",
+        "correct": "no"
+      },
+      {
+        "option": "Usain Bolt – Athletics",
+        "correct": "no"
+      },
+      {
+        "option": "Michael Phelps – Golf",
+        "correct": "yes"
+      },
+      {
+        "option": "Roger Federer – Tennis",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "The Kaifiyat Express train that runs between Delhi and Azamgarh is named after the pen-name of which poet?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Abdul Hayee Gujjar",
+        "correct": "no"
+      },
+      {
+        "option": "Syed Athar Rizvi",
+        "correct": "yes"
+      },
+      {
+        "option": "Raghupati Sahay",
+        "correct": "no"
+      },
+      {
+        "option": "Shabbir Hasan Khan",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "During the tenure of which Prime Minister was Chhattisgarh created from Madhya Pradesh",
+    "level":"3",
+    "options": [
+      {
+        "option": "Manmohan Singh",
+        "correct": "no"
+      },
+      {
+        "option": "Atal Bihari Vajpayee",
+        "correct": "yes"
+      },
+      {
+        "option": " H D Deve Gowda",
+        "correct": "no"
+      },
+      {
+        "option": "I K Gujaral",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these was established to provide free and competent legal services to the weaker sections of the society?",
+    "level":"3",
+    "options": [
+      {
+        "option": " ILO",
+        "correct": "no"
+      },
+      {
+        "option": "NHRC",
+        "correct": "yes"
+      },
+      {
+        "option": "NALSA",
+        "correct": "no"
+      },
+      {
+        "option": "Law Commission",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which football team has won the 2018-19 Santosh Trophy?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Karnataka",
+        "correct": "no"
+      },
+      {
+        "option": "Punjab",
+        "correct": "no"
+      },
+      {
+        "option": "Goa",
+        "correct": "no"
+      },
+      {
+        "option": "Services",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which lyricist holds the Guinness World Record for penning the most number of film songs?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Gulzar",
+        "correct": "no"
+      },
+      {
+        "option": "Javed Akhtar",
+        "correct": "no"
+      },
+      {
+        "option": "Sameer",
+        "correct": "yes"
+      },
+      {
+        "option": "Anjaan",
+        "correct": "no"
+      }
+    ]
+  }
+]

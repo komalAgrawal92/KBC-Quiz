@@ -1,0 +1,355 @@
+[
+  {
+    "question": "Which of the following corresponds to ‘ek bataa do’?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Pura",
+        "correct": "no"
+      },
+      {
+        "option": "Sawa",
+        "correct": "no"
+      },
+      {
+        "option": "Adha",
+        "correct": "yes"
+      },
+      {
+        "option": "Pauna",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of the following gods is also known as ‘Gauri Nandan’?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Agni",
+        "correct": "no"
+      },
+      {
+        "option": "Indra",
+        "correct": "no"
+      },
+      {
+        "option": "Hanuman",
+        "correct": "no"
+      },
+      {
+        "option": "Ganesha",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "In the game of ludo the discs or tokens are of how many colours?",
+    "level": "1",
+    "options": [
+      {
+        "option": "One",
+        "correct": "no"
+      },
+      {
+        "option": "Two",
+        "correct": "no"
+      },
+      {
+        "option": "Three",
+        "correct": "no"
+      },
+      {
+        "option": "Four",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these spices is the smallest in size?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Ajwain",
+        "correct": "yes"
+      },
+      {
+        "option": "Jeera",
+        "correct": "no"
+      },
+      {
+        "option": "Saunf",
+        "correct": "no"
+      },
+      {
+        "option": "Methi Seeds",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these stages is one of the four stages of human life in ancient Indian tradition?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Dronacharya",
+        "correct": "no"
+      },
+      {
+        "option": "Bramhacharya",
+        "correct": "yes"
+      },
+      {
+        "option": "Vasudevacharya",
+        "correct": "no"
+      },
+      {
+        "option": "Kripacharya",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "In which of these two sports is the term ‘free hit’ used?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Football, Squash",
+        "correct": "no"
+      },
+      {
+        "option": "Badminton, Tennis",
+        "correct": "no"
+      },
+      {
+        "option": "Badminton, Cricket",
+        "correct": "no"
+      },
+      {
+        "option": "Hockey, Cricket",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which crop is sown on the largest area in India?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Rice",
+        "correct": "yes"
+      },
+      {
+        "option": "Wheat",
+        "correct": "no"
+      },
+      {
+        "option": "Sugarcane",
+        "correct": "no"
+      },
+      {
+        "option": "Maize",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "What is the world's most common religion?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Hinduism",
+        "correct": "no"
+      },
+      {
+        "option": "Christianity",
+        "correct": "yes"
+      },
+      {
+        "option": "Buddhism",
+        "correct": "no"
+      },
+      {
+        "option": "Muslim",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Durand Cup is associated with the game of",
+    "level": "2",
+    "options": [
+      {
+        "option": "Cricket",
+        "correct": "no"
+      },
+      {
+        "option": "Football",
+        "correct": "yes"
+      },
+      {
+        "option": "Hockey",
+        "correct": "no"
+      },
+      {
+        "option": "Volleyball",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Who established the Mughal Dynasty?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Akbar",
+        "correct": "no"
+      },
+      {
+        "option": "Babur",
+        "correct": "yes"
+      },
+      {
+        "option": "Humayun",
+        "correct": "no"
+      },
+      {
+        "option": "Bahadur Shah",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Who is the establisher of Sikh religion?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Guru Angad",
+        "correct": "no"
+      },
+      {
+        "option": "Guru Gobind Singh",
+        "correct": "no"
+      },
+      {
+        "option": "Guru Hargobind",
+        "correct": "no"
+      },
+      {
+        "option": "Guru Nanak",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which country has recently joined Euro Zone as the 18th member?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Latvia",
+        "correct": "yes"
+      },
+      {
+        "option": "Lithuania",
+        "correct": "no"
+      },
+      {
+        "option": "Estonia",
+        "correct": "no"
+      },
+      {
+        "option": "None of the above",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "The Indian, who holds the pride of beating the computers in mathematical wizard is:",
+    "level": "3",
+    "options": [
+      {
+        "option": "Shakuntala Devi",
+        "correct": "yes"
+      },
+      {
+        "option": "Raja Ramanna",
+        "correct": "no"
+      },
+      {
+        "option": "Ramanujam",
+        "correct": "no"
+      },
+      {
+        "option": "Rina Panigrahi",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Who was the Prime Minister of India when the 42nd Amendment Bill bringing in the changes in the Constitution was passed?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Lal Bahadur Shastri",
+        "correct": "no"
+      },
+      {
+        "option": "Indira Gandhi",
+        "correct": "yes"
+      },
+      {
+        "option": "V P Singh",
+        "correct": "no"
+      },
+      {
+        "option": "Rajiv Gandhi",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Where was the BRICS summit held in 2014?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Brazil",
+        "correct": "yes"
+      },
+      {
+        "option": "India",
+        "correct": "no"
+      },
+      {
+        "option": "Russia",
+        "correct": "no"
+      },
+      {
+        "option": "China",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "During which of these legendary events did Lord Vishnu take the form of Kurma?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Kurukshetra Yudh",
+        "correct": "no"
+      },
+      {
+        "option": "Hiranyakashipu Sanhar",
+        "correct": "no"
+      },
+      {
+        "option": "Kaliya Naag Mardan",
+        "correct": "no"
+      },
+      {
+        "option": "Samudra Manthan",
+        "correct": "yes"
+      }
+    ]
+  }
+]

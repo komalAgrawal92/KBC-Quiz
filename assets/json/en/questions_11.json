@@ -1,0 +1,360 @@
+[
+
+  {
+    "question": "When returning from Lanka after emerging victorious, whom did Lord Rama send ahead as his messenger to Bharat?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Jambavant",
+        "correct": "no"
+      },
+      {
+        "option": "Vibhishana",
+        "correct": "no"
+      },
+      {
+        "option": "Angad",
+        "correct": "no"
+      },
+      {
+        "option": "Hanuman",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is found in the largest quantity on earth?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Water",
+        "correct": "yes"
+      },
+      {
+        "option": "Desert",
+        "correct": "no"
+      },
+      {
+        "option": "Grassland",
+        "correct": "no"
+      },
+      {
+        "option": "Mountains",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "According to Brahmananda Purana, which avtara of Lord Vishnu killed his own mother at his father’s command?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Narasimha",
+        "correct": "no"
+      },
+      {
+        "option": "Vamana",
+        "correct": "no"
+      },
+      {
+        "option": "Parashurama",
+        "correct": "yes"
+      },
+      {
+        "option": "Varaha",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is the title of a 2018 film starring Sushant Singh Rajput and Sara Ali Khan?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Badrinath",
+        "correct": "no"
+      },
+      {
+        "option": "Kedarnath",
+        "correct": "yes"
+      },
+      {
+        "option": "Amarnath",
+        "correct": "no"
+      },
+      {
+        "option": "Tungnath",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these are the two sides of a coin?",
+    "level": "1",
+    "options": [
+      {
+        "option": "True and false",
+        "correct": "no"
+      },
+      {
+        "option": "Pass and fail",
+        "correct": "no"
+      },
+      {
+        "option": "Right and left",
+        "correct": "no"
+      },
+      {
+        "option": "Heads and tails",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is the chief ingredient of mayonnaise?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Egg Yolk",
+        "correct": "yes"
+      },
+      {
+        "option": "Red Chilli",
+        "correct": "no"
+      },
+      {
+        "option": "Turmeric",
+        "correct": "no"
+      },
+      {
+        "option": "Tomato",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question":"Who,along with Esther Duflo,has co-authored the 2011 book Poor Economics for Hard Times?",
+    "level":"2",
+    "options":[
+      {
+        "option":"Nitin Nohria",
+        "correct":"no"
+      },
+      {
+        "option":"Abhijit Banerjee",
+        "correct":"yes"
+      },
+      {
+        "option":"Raghuram Rajan",
+        "correct":"no"
+      },
+      {
+        "option":"Arvind Subramanian",
+        "correct":"no"
+      }
+    ]
+  },
+  {
+    "question":" Which river was known as the Sorrow of Bengal",
+    "level":"2",
+    "options":[
+      {
+        "option":"Damodar",
+        "correct":"yes"
+      },
+      {
+        "option":"Suvarnarekha",
+        "correct":"no"
+      },
+      {
+        "option":"Saankh",
+        "correct":"no"
+      },
+      {
+        "option":"Sone",
+        "correct":"no"
+      }
+    ]
+  },
+  {
+    "question":"Which of these prime ministers of India has never been the chief minister of a state?",
+    "level":"2",
+    "options":[
+      {
+        "option":"Vishwanath Pratap Singh",
+        "correct":"no"
+      },
+      {
+        "option":"Morarji Desai",
+        "correct":"no"
+      },
+      {
+        "option":"Lal Bahadur Shastri",
+        "correct":"yes"
+      },
+      {
+        "option":"H D Deve Gowda",
+        "correct":"no"
+      }
+    ]
+  },
+  {
+    "question":"The headquarters of Allahabad bank is located in which city?",
+    "level":"2",
+    "options":[
+      {
+        "option":"Kolkatta",
+        "correct":"yes"
+      },
+      {
+        "option":"Mumbai",
+        "correct":"no"
+      },
+      {
+        "option":"Allahabad",
+        "correct":"no"
+      },
+      {
+        "option":"Lucknow",
+        "correct":"no"
+      }
+    ]
+  },
+  {
+    "question":"Which Indian chess player became the second female player ever, after Judit Polgar to exceed the 2600 Elo rating?",
+    "level":"2",
+    "options":[
+      {
+        "option":"Tania Sachdev",
+        "correct":"no"
+      },
+      {
+        "option":"Koneru Humpy",
+        "correct":"yes"
+      },
+      {
+        "option":"Aarti Ramaswamy",
+        "correct":"no"
+      },
+      {
+        "option":"Subbaraman Vijayalakshmi",
+        "correct":"no"
+      }
+    ]
+  },
+  {
+    "question": "Jurassic Period was named after what?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Mountain Range",
+        "correct": "yes"
+      },
+      {
+        "option": "Lake",
+        "correct": "no"
+      },
+      {
+        "option": "River",
+        "correct": "no"
+      },
+      {
+        "option": "Desert",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which British envoy entered into a pact called the Treaty of Amritsar with Maharaja Ranjit Singh in 1809?",
+    "level":"3",
+    "options": [
+      {
+        "option": "William B Bayley",
+        "correct": "no"
+      },
+      {
+        "option": "Sir George Barlow",
+        "correct": "no"
+      },
+      {
+        "option": "Alured Clarke",
+        "correct": "no"
+      },
+      {
+        "option": "Charles T Metcalfe",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "In 2019, who became the first-ever Indian cricketer to play 100 T20 International matches?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Mithali Raj",
+        "correct": "no"
+      },
+      {
+        "option": "Virat Kohli",
+        "correct": "no"
+      },
+      {
+        "option": "Harmanpreet Kaur",
+        "correct": "yes"
+      },
+      {
+        "option": "Rohit Sharma",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these countries’ flag has different emblems on the obverse and reverse?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Guatemala",
+        "correct": "no"
+      },
+      {
+        "option": "Papua New Guinea",
+        "correct": "no"
+      },
+      {
+        "option": "Paraguay",
+        "correct": "yes"
+      },
+      {
+        "option": "Fiji",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which word, meaning crocodile in Persian was used for medieval Sikh warriors?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Akali",
+        "correct": "no"
+      },
+      {
+        "option": "Takht",
+        "correct": "no"
+      },
+      {
+        "option": "Nihang",
+        "correct": "yes"
+      },
+      {
+        "option": "Khalsa",
+        "correct": "no"
+      }
+    ]
+  }
+]

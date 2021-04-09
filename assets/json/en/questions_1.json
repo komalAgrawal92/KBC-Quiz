@@ -1,0 +1,357 @@
+[
+  {
+  "question": "AB de Villiers who has hit the fastest ODI century in 31 balls is from",
+  "options": [
+    {
+      "option": "South Africa",
+      "correct": "yes"
+    },
+    {
+      "option": "West Indies",
+      "correct": "no"
+    },
+    {
+      "option": "New Zealand",
+      "correct": "no"
+    },
+    {
+      "option": "Australlia",
+      "correct": "no"
+    }
+  ],
+  "level" : "1"
+},
+  {
+    "question": "Novak Djokovic is a famous player associated with which game?",
+    "options": [
+      {
+        "option": "Table Tennis",
+        "correct": "no"
+      },
+      {
+        "option": "Squash",
+        "correct": "no"
+      },
+      {
+        "option": "Badminton",
+        "correct": "no"
+      },
+      {
+        "option": "Lawn Tennis",
+        "correct": "yes"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which of these is the first domestic debit and credit payment network of India?",
+    "options": [
+      {
+        "option": "Paytm",
+        "correct": "no"
+      },
+      {
+        "option": "Paypal",
+        "correct": "no"
+      },
+      {
+        "option": "RuPay",
+        "correct": "yes"
+      },
+      {
+        "option": "PaiSay",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which of these state's capital is farthest east ?",
+    "options": [
+      {
+        "option": "Arunachal Pradesh",
+        "correct": "no"
+      },
+      {
+        "option": "Nagaland",
+        "correct": "yes"
+      },
+      {
+        "option": "Manipur",
+        "correct": "no"
+      },
+      {
+        "option": "Mizoram",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Which of these first youtube channel to reach the 100 million subscriber mark?",
+    "options": [
+      {
+        "option": "PewDiePie",
+        "correct": "no"
+      },
+      {
+        "option": "T-Series",
+        "correct": "yes"
+      },
+      {
+        "option": "Justin Bieber",
+        "correct": "no"
+      },
+      {
+        "option": "WWE",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "By definition, a botanist is mainly concerned with what?",
+    "options": [
+      {
+        "option": "Boats",
+        "correct": "no"
+      },
+      {
+        "option": "Plants",
+        "correct": "yes"
+      },
+      {
+        "option": "Bottles",
+        "correct": "no"
+      },
+      {
+        "option": "Robots",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "The world smallest country is",
+    "options": [
+      {
+        "option": "Monaco",
+        "correct": "no"
+      },
+      {
+        "option": "Vatican City",
+        "correct": "yes"
+      },
+      {
+        "option": "Marshall Islands",
+        "correct": "no"
+      },
+      {
+        "option": "Nauru",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+
+  {
+    "question": "Which Indian bowler has taken the most number of ODI wickets?",
+    "options": [
+      {
+        "option": "Anil Kumble",
+        "correct": "yes"
+      },
+      {
+        "option": "Zaheer Khan",
+        "correct": "no"
+      },
+      {
+        "option": "Javagal Srinath",
+        "correct": "no"
+      },
+      {
+        "option": "Ajit Agarkar",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Who was the first Indian to travel to space?",
+    "options": [
+      {
+        "option": "Sunita Williams",
+        "correct": "no"
+      },
+      {
+        "option": "Kalpana Chawla",
+        "correct": "no"
+      },
+      {
+        "option": "Rakesh Sharma",
+        "correct": "yes"
+      },
+      {
+        "option": "Ravish Malhotra",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+
+  {
+    "question": "What is the minimum age to become the Governor of an Indian state?",
+    "options": [
+      {
+        "option": "40 years",
+        "correct": "no"
+      },
+      {
+        "option": "45 years",
+        "correct": "no"
+      },
+      {
+        "option": "35 years",
+        "correct": "yes"
+      },
+      {
+        "option": "60 years",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "In which Indian city will you find Buland Darwaza?",
+    "options": [
+      {
+        "option": "Fatehpur Sikri",
+        "correct": "yes"
+      },
+      {
+        "option": "Jaipur",
+        "correct": "no"
+      },
+      {
+        "option": "New Delhi",
+        "correct": "no"
+      },
+      {
+        "option": "Sawai Madhopur",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+
+  {
+    "question": "The name Australia is derived from the Latin word “Australis” which means ______.",
+    "options": [
+      {
+        "option": "Nothern",
+        "correct": "no"
+      },
+      {
+        "option": "Southen",
+        "correct": "yes"
+      },
+      {
+        "option": "Western",
+        "correct": "no"
+      },
+      {
+        "option": "Reverina",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "Who has the record for scoring the most goals in World Cup history?",
+    "options": [
+      {
+        "option": "Ronaldo",
+        "correct": "yes"
+      },
+      {
+        "option": "Diego Maradona",
+        "correct": "no"
+      },
+      {
+        "option": "Lionel Messi",
+        "correct": "no"
+      },
+      {
+        "option": "Miroslav Klose",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "Which is the first country to issue paper currency?",
+    "options": [
+      {
+        "option": "India",
+        "correct": "no"
+      },
+      {
+        "option": "China",
+        "correct": "yes"
+      },
+      {
+        "option": "The United States of America",
+        "correct": "no"
+      },
+      {
+        "option": "England",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "What is the name of costliest painting sold every in year 2019?",
+    "options": [
+      {
+        "option": "Mona Lisa",
+        "correct": "no"
+      },
+      {
+        "option": "Salvator Mundi",
+        "correct": "yes"
+      },
+      {
+        "option": "The Last Supper",
+        "correct": "no"
+      },
+      {
+        "option": "The Card Players",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "Who translated Ramayana in Urdu?",
+    "options": [
+      {
+        "option": "Abdul Fazi",
+        "correct": "no"
+      },
+      {
+        "option": "Dr Mahi Talat Siddiqui",
+        "correct": "yes"
+      },
+      {
+        "option": "Wadi Al Bustani",
+        "correct": "no"
+      },
+      {
+        "option": "Abd al-Qadir Bada",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "question": "Complete this Hindi saying, “Duwidha me dono gaye......, mili na Rama”, which means that a confused person loses everything?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Hema",
+        "correct": "no"
+      },
+      {
+        "option": "Maya",
+        "correct": "yes"
+      },
+      {
+        "option": "Jaya",
+        "correct": "no"
+      },
+      {
+        "option": "Sushma",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "An illiterate person can also be called what?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Ungli mar",
+        "correct": "no"
+      },
+      {
+        "option": "Lath tod",
+        "correct": "no"
+      },
+      {
+        "option": "Angutha chap",
+        "correct": "yes"
+      },
+      {
+        "option": "Laal ka bhut",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Other than cricket which game also has a striker?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Chess",
+        "correct": "no"
+      },
+      {
+        "option": "Ludo",
+        "correct": "no"
+      },
+      {
+        "option": "Kho Kho",
+        "correct": "no"
+      },
+      {
+        "option": "Carrom",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "According to a Hindi proverb, a person falling from where gets stuck in a kajur tree?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Swarg",
+        "correct": "no"
+      },
+      {
+        "option": "Aasmaan",
+        "correct": "yes"
+      },
+      {
+        "option": "Chand",
+        "correct": "no"
+      },
+      {
+        "option": "Narak",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "In which of these games does a player have to target animated pigs?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Temple run",
+        "correct": "no"
+      },
+      {
+        "option": "Candy crush saga",
+        "correct": "no"
+      },
+      {
+        "option": "Angry birds",
+        "correct": "yes"
+      },
+      {
+        "option": "Super mario bros",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these can be brought in sarafa bazaar?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Pair of bullocks",
+        "correct": "no"
+      },
+      {
+        "option": "Gold coins",
+        "correct": "yes"
+      },
+      {
+        "option": "Jersey cow",
+        "correct": "no"
+      },
+      {
+        "option": "Mugha silk",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which dance did yo yo Honey Singh sing about in a 2013 song?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Pagdi",
+        "correct": "no"
+      },
+      {
+        "option": "Saree",
+        "correct": "no"
+      },
+      {
+        "option": "Lungi",
+        "correct": "yes"
+      },
+      {
+        "option": "Disco",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "On which of these Google apps are you most likely to see a satellite view of your city?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Google hangouts",
+        "correct": "no"
+      },
+      {
+        "option": "Google maps",
+        "correct": "yes"
+      },
+      {
+        "option": "Google drive",
+        "correct": "no"
+      },
+      {
+        "option": "Picasa",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these fractions is of the greatest value?",
+    "level": "2",
+    "options": [
+      {
+        "option": "1÷4",
+        "correct": "no"
+      },
+      {
+        "option": "1÷3",
+        "correct": "no"
+      },
+      {
+        "option": "1÷2",
+        "correct": "no"
+      },
+      {
+        "option": "1÷1",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "What was the real identity of Krissh, the lead character of a series of Hindi super hero films?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Krishna",
+        "correct": "yes"
+      },
+      {
+        "option": "Kartik",
+        "correct": "no"
+      },
+      {
+        "option": "Kripa",
+        "correct": "no"
+      },
+      {
+        "option": "Kesav",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "What are bye and leg bye?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Forms of greeting",
+        "correct": "no"
+      },
+      {
+        "option": "Cricketing terms",
+        "correct": "yes"
+      },
+      {
+        "option": "Types of bhangra",
+        "correct": "no"
+      },
+      {
+        "option": "Dance moves",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "What discovery in 1823 is credited to the British official Robert Bruce?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Oil",
+        "correct": "no"
+      },
+      {
+        "option": "Tea",
+        "correct": "yes"
+      },
+      {
+        "option": "Murga silk",
+        "correct": "no"
+      },
+      {
+        "option": "Jute",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is not a Dravidian language?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Tamil",
+        "correct": "no"
+      },
+      {
+        "option": "Karnataka",
+        "correct": "no"
+      },
+      {
+        "option": "Malyalam",
+        "correct": "no"
+      },
+      {
+        "option": "Assamese",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "Which Parliamentarian is the author of 1001 animal quiz, Fish Quiz, Bird quiz and Insect Quiz?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Harshimrat Kaur Badal",
+        "correct": "no"
+      },
+      {
+        "option": "Maneka Gandhi",
+        "correct": "yes"
+      },
+      {
+        "option": "Najma Heptulla",
+        "correct": "no"
+      },
+      {
+        "option": "Supriya Sule",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these animals is the largest member of the dog family?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Jackal",
+        "correct": "no"
+      },
+      {
+        "option": "Hyena",
+        "correct": "no"
+      },
+      {
+        "option": "Wolf",
+        "correct": "yes"
+      },
+      {
+        "option": "Fox",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "The potato is believed to have been originated in which of these places?",
+    "level": "3",
+    "options": [
+      {
+        "option": "South America",
+        "correct": "yes"
+      },
+      {
+        "option": "Asia",
+        "correct": "no"
+      },
+      {
+        "option": "Europe",
+        "correct": "no"
+      },
+      {
+        "option": "Africa",
+        "correct": "no"
+      }
+    ]
+  }
+]

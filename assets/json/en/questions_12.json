@@ -1,0 +1,360 @@
+[
+{
+  "question": "What is the literal meaning of “Kumbh”, as in “Kumbh Mela”?",
+  "level": "1",
+  "options": [
+    {
+      "option": "Pot",
+      "correct": "yes"
+    },
+    {
+      "option": "Churn",
+      "correct": "no"
+    },
+    {
+      "option": "Water",
+      "correct": "no"
+    },
+    {
+      "option": "Nectar",
+      "correct": "no"
+    }
+  ]
+},
+{
+"question": "Which of these states has a number in its name?",
+"level": "1",
+"options": [
+{
+"option": "Mizoram",
+"correct": "no"
+},
+{
+"option": "Chhattisgarh",
+"correct": "yes"
+},
+{
+"option": "Bihar",
+"correct": "no"
+},
+{
+"option": "Himachal Pradesh",
+"correct": "no"
+}
+]
+},
+
+{
+"question": "With reference to the feature of a mobile phone, what do figures like 1920×1080, 2560×1440 and 1280×720 represent?",
+"level": "1",
+"options": [
+{
+"option": "Screen Resolution",
+"correct": "yes"
+},
+{
+"option": "Battery Capacity",
+"correct": "no"
+},
+{
+"option": "Memory Capacity",
+"correct": "no"
+},
+{
+"option": "Processing Speed",
+"correct": "no"
+}
+]
+},
+{
+"question": "With respect to elections in India, which of these is used to identify political parties on a EVM?",
+"level": "1",
+"options": [
+{
+"option": "Party Name",
+"correct": "no"
+},
+{
+"option": "Party Flag",
+"correct": "no"
+},
+{
+"option": "Party Address",
+"correct": "no"
+},
+{
+"option": "Party Symbol",
+"correct": "yes"
+}
+]
+},
+
+{
+"question": "Complete the line of a famous couplet by Mirza Ghalib : “Ishq par zor nahi__, ki lagaye na lage aur bujhaye na bane”?",
+"level": "1",
+"options": [
+{
+"option": "Hai ye woh aatish Ghalib",
+"correct": "yes"
+},
+{
+"option": "Hai ye woh dard Ghalib",
+"correct": "no"
+},
+{
+"option": "Hai ye woh aag Ghalib",
+"correct": "no"
+},
+{
+"option": "Hai ye woh dariya Ghalib",
+"correct": "no"
+}
+]
+},
+
+{
+"question": "Before becoming separate states, which of these pairs of regions was once part of Punjab?",
+"level": "1",
+"options": [
+{
+"option": "Haryana, Jammu",
+"correct": "no"
+},
+{
+"option": "Himachal Pradesh, Haryana",
+"correct": "yes"
+},
+{
+"option": "Uttarakhand, Himachal Pradesh",
+"correct": "no"
+},
+{
+"option": "Jammu, Uttarakhand",
+"correct": "no"
+}
+]
+},
+  {
+    "question": "With which musical note of Indian classical music did music director R D Burman share his nickname?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Madhyam",
+        "correct": "no"
+      },
+      {
+        "option": "Pancham",
+        "correct": "yes"
+      },
+      {
+        "option": "Rishabh",
+        "correct": "no"
+      },
+      {
+        "option": "Gandhar",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "The white tiger is a colour variant of which subspecies of tiger?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Sumantran tiger",
+        "correct": "no"
+      },
+      {
+        "option": "Bengal tiger",
+        "correct": "yes"
+      },
+      {
+        "option": "Indochinese tiger",
+        "correct": "no"
+      },
+      {
+        "option": "Siberian tiger",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which Indian bride is sometimes referred to as Hathiwala cream?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Odomos",
+        "correct": "no"
+      },
+      {
+        "option": "Vaseline",
+        "correct": "no"
+      },
+      {
+        "option": "Boroline",
+        "correct": "yes"
+      },
+      {
+        "option": "Vicco Turmeric",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these Lok Sabha MP is a former investment banker?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Mahua Moitra",
+        "correct": "yes"
+      },
+      {
+        "option": "Gaurav Gogoi",
+        "correct": "no"
+      },
+      {
+        "option": "Nakul Nath",
+        "correct": "no"
+      },
+      {
+        "option": "Agatha Sangma",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Of which of these fruits is India the world’s largest producer?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Apple",
+        "correct": "no"
+      },
+      {
+        "option": "Cherry",
+        "correct": "no"
+      },
+      {
+        "option": "Banana",
+        "correct": "yes"
+      },
+      {
+        "option": "Guava",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Pakyong Airport is the first airport of which state?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Manipur",
+        "correct": "no"
+      },
+      {
+        "option": "Meghalaya",
+        "correct": "no"
+      },
+      {
+        "option": "Arunachal Pradesh",
+        "correct": "no"
+      },
+      {
+        "option": "Sikkim",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "Which King of the eastern Ganga dynasty started the construction of the great Jagannatha Temple at Puri?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Anantavarman Chodaganga Deva",
+        "correct": "yes"
+      },
+      {
+        "option": "Narasimha I",
+        "correct": "no"
+      },
+      {
+        "option": "Bhanu Deva I",
+        "correct": "no"
+      },
+      {
+        "option": "Gopala I",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Padma Bhushan awardee Mahashay Dharam Pal Gulati is associated with which of these companies?\n",
+    "level":"3",
+    "options": [
+      {
+        "option": "Haldiram’s",
+        "correct": "no"
+      },
+      {
+        "option": "MDH",
+        "correct": "yes"
+      },
+      {
+        "option": "Everest Spcies",
+        "correct": "no"
+      },
+      {
+        "option": "Britannia\nK",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Discovered in Indian in 1868, Helium was named after which of these natural entities?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Rain",
+        "correct": "no"
+      },
+      {
+        "option": "Wind",
+        "correct": "no"
+      },
+      {
+        "option": "Cloud",
+        "correct": "no"
+      },
+      {
+        "option": "Sun",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Who became only the 4th cricketer after Javed Miandad, Sachin Tendulkar and Sanath Jaisurya to complete 20 years playing ODI cricket?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Mithali Raj",
+        "correct": "yes"
+      },
+      {
+        "option": "Charlotte Edwards",
+        "correct": "no"
+      },
+      {
+        "option": "Chris Gayle",
+        "correct": "no"
+      },
+      {
+        "option": "Shoaib Malik",
+        "correct": "no"
+      }
+    ]
+  }
+]

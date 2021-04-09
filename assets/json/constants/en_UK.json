@@ -1,0 +1,13 @@
+{
+  "play_button" : "PLAY",
+  "settings_button" : "SETTINGS",
+  "more_apps": "MORE APPS",
+  "yes" : "Yes",
+  "no" : "No",
+  "restart" : "Do you want to restart?",
+  "won" : "You won ₹ ",
+  "language": "ENGLISH",
+  "sound": "SOUND",
+  "settings" : "SETTINGS",
+  "exit": "Do you want to exit?"
+}

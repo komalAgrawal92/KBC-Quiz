@@ -1,0 +1,361 @@
+[
+  {
+  "question": "Which of these disappears when it comes into contact with air for a few days?",
+  "level": "1",
+  "options": [
+    {
+      "option": "Vanilla",
+      "correct": "no"
+    },
+    {
+      "option": "Asafoetida",
+      "correct": "no"
+    },
+    {
+      "option": "Jaggery",
+      "correct": "no"
+    },
+    {
+      "option": "Camphor",
+      "correct": "yes"
+    }
+  ]
+},
+  {
+    "question": "Under what brand name does Amazon sell its e-book readers?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Kindle",
+        "correct": "yes"
+      },
+      {
+        "option": "Reader",
+        "correct": "no"
+      },
+      {
+        "option": "Nook",
+        "correct": "no"
+      },
+      {
+        "option": "Booken",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "With which of these religious are Prakash Parva and Nagar Kirtan traditionally associated?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Jainism",
+        "correct": "no"
+      },
+      {
+        "option": "Hinduism",
+        "correct": "no"
+      },
+      {
+        "option": "Sikhism",
+        "correct": "yes"
+      },
+      {
+        "option": "Buddhism",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is a type of photograph usually taken with the front camera of a smartphone?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Backfie",
+        "correct": "no"
+      },
+      {
+        "option": "Selfie",
+        "correct": "yes"
+      },
+      {
+        "option": "Throwback",
+        "correct": "no"
+      },
+      {
+        "option": "Aerial",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "According to the Mahabharata, which hunter killed Sri Krishna with his arrow by mistake?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Satyaki",
+        "correct": "no"
+      },
+      {
+        "option": "Vrishketu",
+        "correct": "no"
+      },
+      {
+        "option": "Guha",
+        "correct": "no"
+      },
+      {
+        "option": "Jara",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these foods is named after the same vessel in which it is cooked?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Paneer tikka",
+        "correct": "no"
+      },
+      {
+        "option": "Shahi paneer",
+        "correct": "no"
+      },
+      {
+        "option": "Kadhai paneer",
+        "correct": "yes"
+      },
+      {
+        "option": "Paneer bhurji",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these leaders immediately succeeded their father or mother as prime minister of their country?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Indira Gandhi",
+        "correct": "no"
+      },
+      {
+        "option": "Rajiv Gandhi",
+        "correct": "yes"
+      },
+      {
+        "option": "Benazir Bhutto",
+        "correct": "no"
+      },
+      {
+        "option": "Sheikh Hasina",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "What is the profession of Byomkesh Bakshy, according to the title of the Dibakar Banerjee film starring Sushant Singh Rajput?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Doctor",
+        "correct": "no"
+      },
+      {
+        "option": "Dentist",
+        "correct": "no"
+      },
+      {
+        "option": "Detective",
+        "correct": "yes"
+      },
+      {
+        "option": "Dancer",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "According to the Mahabharata, which of Arjuna’s four wives was a ‘nagakanya’ or serpent maiden?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Draupadi",
+        "correct": "no"
+      },
+      {
+        "option": "Subhadra",
+        "correct": "no"
+      },
+      {
+        "option": "Chitrangada",
+        "correct": "no"
+      },
+      {
+        "option": "Ulupi",
+        "correct": "yes"
+      }
+    ]
+  },
+
+
+  {
+    "question": "What is the name given to the proposed expressway linking Meerut and Prayagraj which the Uttar Pradesh government announced in January 2019?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Yamuna Expressway",
+        "correct": "no"
+      },
+      {
+        "option": "Gomti Expressway",
+        "correct": "no"
+      },
+      {
+        "option": "Chambal Expressway",
+        "correct": "no"
+      },
+      {
+        "option": "Ganga Expressway",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these fibres is obtained from the substance around the seeds of a plant?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Jute",
+        "correct": "no"
+      },
+      {
+        "option": "Hemp",
+        "correct": "no"
+      },
+      {
+        "option": "Flax",
+        "correct": "no"
+      },
+      {
+        "option": "Cotton",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "According to the scriptures, whose death was caused by flowers that fell from Narada’s garland?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Kaikasi",
+        "correct": "no"
+      },
+      {
+        "option": "Anjana",
+        "correct": "no"
+      },
+      {
+        "option": "Ahalya",
+        "correct": "no"
+      },
+      {
+        "option": "Indumati",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "Which British envoy entered into a pact called the Treaty of Amritsar with Maharaja Ranjit Singh in 1809?",
+    "level": "3",
+    "options": [
+      {
+        "option": "William B Bayley",
+        "correct": "yes"
+      },
+      {
+        "option": "Sir George Barlow",
+        "correct": "no"
+      },
+      {
+        "option": "Alured Clarke",
+        "correct": "no"
+      },
+      {
+        "option": "Charles T Metcalfe",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these mountaineers successfully scaled Mt Everest for a record 24th time in May 2019?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Apa Sherpa",
+        "correct": "no"
+      },
+      {
+        "option": "Kami Rita Shepra",
+        "correct": "yes"
+      },
+      {
+        "option": "Dachhiri Shepra",
+        "correct": "no"
+      },
+      {
+        "option": "Phurba Tashi Shepra",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "In 1941, which American businessman wrote a praise-filled letter to Mahatma Gandhi, in return of which Ghandhiji sent him a charkha?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Jean Paul Getty",
+        "correct": "no"
+      },
+      {
+        "option": "Henry Ford",
+        "correct": "yes"
+      },
+      {
+        "option": "John D Rockefeller",
+        "correct": "no"
+      },
+      {
+        "option": "Sam WaltonK",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Girish Chandra Murmu has been appointed the liuetenant governor of which Union Territory in October 2019?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Ladakh",
+        "correct": "no"
+      },
+      {
+        "option": "Chandigarh",
+        "correct": "no"
+      },
+      {
+        "option": "Jammu & Kashmir",
+        "correct": "yes"
+      },
+      {
+        "option": "Puducherry",
+        "correct": "no"
+      }
+    ]
+  }
+
+]

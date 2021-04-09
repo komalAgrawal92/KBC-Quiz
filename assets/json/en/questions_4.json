@@ -1,0 +1,354 @@
+[
+  {
+    "question": "Which of the following is a type of tea?",
+    "options": [
+      {
+        "option": "Mathura",
+        "correct": "no"
+      },
+      {
+        "option": "Darjeeling",
+        "correct": "yes"
+      },
+      {
+        "option": "Himachal",
+        "correct": "no"
+      },
+      {
+        "option": "Kashmir",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Who is wealthiest actor in world?",
+    "options": [
+      {
+        "option": "Robert Downie Jr.",
+        "correct": "no"
+      },
+      {
+        "option": "Christian Bale",
+        "correct": "no"
+      },
+      {
+        "option": "Shahrukh Khan",
+        "correct": "yes"
+      },
+      {
+        "option": "Amitabh Bachhan",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "What is the name of demon who was disguised as deer before Ravana abducts Sita?",
+    "options": [
+      {
+        "option": "Atikaya",
+        "correct": "no"
+      },
+      {
+        "option": "Prahasta",
+        "correct": "no"
+      },
+      {
+        "option": "Trijata",
+        "correct": "no"
+      },
+      {
+        "option": "Mareech",
+        "correct": "yes"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+  "question": "What does wheel in Indian National flag symbolizes?",
+  "options": [
+    {
+      "option": "Work 24 hours",
+      "correct": "yes"
+    },
+    {
+      "option": "Versatile",
+      "correct": "no"
+    },
+    {
+      "option": "Unity",
+      "correct": "no"
+    },
+    {
+      "option": "Dignity",
+      "correct": "no"
+    }
+  ],
+  "level" : "1"
+},{
+  "question": "Which of the following medical field is known for research of skin problems?",
+  "options": [
+    {
+      "option": "Pediatrics",
+      "correct": "no"
+    },
+    {
+      "option": "Dermatology",
+      "correct": "yes"
+    },
+    {
+      "option": "Ophthalmology",
+      "correct": "no"
+    },
+    {
+      "option": "Orthodontics",
+      "correct": "no"
+    }
+  ],
+  "level" : "1"
+},
+  {
+    "question": "Which is the last movie of Bollywood Actor Irrfan Khan?",
+    "options": [
+      {
+        "option": "Hindi Medium",
+        "correct": "no"
+      },
+      {
+        "option": "Angrezi Medium",
+        "correct": "yes"
+      },
+      {
+        "option": "Karwaan",
+        "correct": "no"
+      },
+      {
+        "option": "Jurasic Park",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which of these is fastest bird in the world",
+    "options": [
+      {
+        "option": "Perigrine Falcon",
+        "correct": "yes"
+      },
+      {
+        "option": "Eagle",
+        "correct": "no"
+      },
+      {
+        "option": "Flightless Ostrich",
+        "correct": "no"
+      },
+      {
+        "option": "Rock dove ",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "The language of Lakshadweep. A Union Territory of India, is",
+    "options": [
+      {
+        "option": "Tamil",
+        "correct": "no"
+      },
+      {
+        "option": "Hindi",
+        "correct": "no"
+      },
+      {
+        "option": "Malayalam",
+        "correct": "yes"
+      },
+      {
+        "option": "Kannada",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "How many Sikhs fought against 10000 Afghans in Battle of Sargarhi, on which movie Kesari is based?",
+    "options": [
+      {
+        "option": "1001",
+        "correct": "no"
+      },
+      {
+        "option": "501",
+        "correct": "no"
+      },
+      {
+        "option": "51",
+        "correct": "no"
+      },
+      {
+        "option": "21",
+        "correct": "yes"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Who was Ravana's step brother?",
+    "options": [
+      {
+        "option": "Meghnath",
+        "correct": "no"
+      },
+      {
+        "option": "Kuber",
+        "correct": "yes"
+      },
+      {
+        "option": "Vibhishana",
+        "correct": "no"
+      },
+      {
+        "option": "Kumbhakarna",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "In which of the following places Kumbha mela does not takes place?",
+    "options": [
+      {
+        "option": "Varanasi",
+        "correct": "yes"
+      },
+      {
+        "option": "Haridwar",
+        "correct": "no"
+      },
+      {
+        "option": "Nashik",
+        "correct": "no"
+      },
+      {
+        "option": "Allahabad",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+
+  {
+    "question": "Which of the following pair of detergent belong to same parent company?",
+    "options": [
+      {
+        "option": "Tide - Surf Excel",
+        "correct": "no"
+      },
+      {
+        "option": "Ariel - Surf Excel",
+        "correct": "no"
+      },
+      {
+        "option": "Tide - Ariel",
+        "correct": "yes"
+      },
+      {
+        "option": "Tide - Rin",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "IIT Hyderabad incubated startup Aerobiosys Innovations develops low-cost ventilator. What is the name of Ventilator?",
+    "options": [
+      {
+        "option": "Covid Care",
+        "correct": "no"
+      },
+      {
+        "option": "Jeevan Lite",
+        "correct": "yes"
+      },
+      {
+        "option": "RAKSHAK",
+        "correct": "no"
+      },
+      {
+        "option": "Life Care",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "Which Indian shot putter has been suspended for 4-years for failing an out-of-competition dope test?",
+    "options": [
+      {
+        "option": "Pardeep Jaglan",
+        "correct": "no"
+      },
+      {
+        "option": "Kriti Malik",
+        "correct": "no"
+      },
+      {
+        "option": "Ravi Mishra",
+        "correct": "no"
+      },
+      {
+        "option": "Navin Chikara",
+        "correct": "yes"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "Ball pen function on which one of the following principal?",
+    "options": [
+      {
+        "option": "Boyle's law",
+        "correct": "no"
+      },
+      {
+        "option": "Murphy's law",
+        "correct": "no"
+      },
+      {
+        "option": "Viscocity",
+        "correct": "no"
+      },
+      {
+        "option": "Surface Tension",
+        "correct": "yes"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "Which one of the following was the first fort constructed by the British in India?",
+    "options": [
+      {
+        "option": "Fort William",
+        "correct": "no"
+      },
+      {
+        "option": "Fort St. George",
+        "correct": "yes"
+      },
+      {
+        "option": "Fort St. David",
+        "correct": "no"
+      },
+      {
+        "option": "Fort St. Angelo",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  }
+]

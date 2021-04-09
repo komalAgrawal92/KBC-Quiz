@@ -1,0 +1,354 @@
+[
+  {
+    "question": "Tiger Woods is to be inducted into the World Golf Hall of fame in its class of 2021. He belongs to which game?",
+    "options": [
+      {
+        "option": "Snooker",
+        "correct": "no"
+      },
+      {
+        "option": "Archery",
+        "correct": "no"
+      },
+      {
+        "option": "Golf",
+        "correct": "yes"
+      },
+      {
+        "option": "Boxing",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which is the first Indian film?",
+    "options": [
+      {
+        "option": "Raja Harishchandra",
+        "correct": "yes"
+      },
+      {
+        "option": "Aalam aara",
+        "correct": "no"
+      },
+      {
+        "option": "Achhut Kanya",
+        "correct": "no"
+      },
+      {
+        "option": "Kismet",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Name the first satellite launched by India?",
+    "options": [
+      {
+        "option": "Aryabhata",
+        "correct": "yes"
+      },
+      {
+        "option": "Rohini",
+        "correct": "no"
+      },
+      {
+        "option": "Bhaskara SEGA-I",
+        "correct": "no"
+      },
+      {
+        "option": "INSAT-1A",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which of these is a director duo?",
+    "options": [
+      {
+        "option": "Shankar-Jaikishen",
+        "correct": "no"
+      },
+      {
+        "option": "Salim-Javed",
+        "correct": "no"
+      },
+      {
+        "option": "Jatin-Lalit",
+        "correct": "no"
+      },
+      {
+        "option": "Abbas-Mastan",
+        "correct": "yes"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which of these is the story of Ramayana written in Hindi",
+    "options": [
+      {
+        "option": "Patanjali Sutra",
+        "correct": "no"
+      },
+      {
+        "option": "Ramcharitmanas",
+        "correct": "yes"
+      },
+      {
+        "option": "Rambhakti",
+        "correct": "no"
+      },
+      {
+        "option": "Dharmasutra",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Which of these sportsmen is nicknamed \"Hitman\"?",
+    "options": [
+      {
+        "option": "Shikhar Dhawan",
+        "correct": "no"
+      },
+      {
+        "option": "Rohit Sharma",
+        "correct": "yes"
+      },
+      {
+        "option": "Virat Kohli",
+        "correct": "no"
+      },
+      {
+        "option": "Sachin Tendulkar",
+        "correct": "no"
+      }
+    ],
+    "level" : "1"
+  },
+  {
+    "question": "Who gave Bhishma the boon that he would die only when he wished?",
+    "options": [
+      {
+        "option": "Drona",
+        "correct": "no"
+      },
+      {
+        "option": "Dushala",
+        "correct": "no"
+      },
+      {
+        "option": "Shantanu",
+        "correct": "yes"
+      },
+      {
+        "option": "Durvasa",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Which is the smallest bird in the world?",
+    "options": [
+      {
+        "option": "Humming Bird",
+        "correct": "yes"
+      },
+      {
+        "option": "Tickell's flowerpecker",
+        "correct": "no"
+      },
+      {
+        "option": "Royal Albatross",
+        "correct": "no"
+      },
+      {
+        "option": "Goldcrest",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Entomology is the science that studies?",
+    "options": [
+      {
+        "option": "Behaviour of human",
+        "correct": "no"
+      },
+      {
+        "option": "Insects",
+        "correct": "yes"
+      },
+      {
+        "option": "Heat energy",
+        "correct": "no"
+      },
+      {
+        "option": "Rock formation",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Grand Central Terminal, Park Avenue, New York is the world's _______ railway station",
+    "options": [
+      {
+        "option": "Highest",
+        "correct": "no"
+      },
+      {
+        "option": "Longest",
+        "correct": "no"
+      },
+      {
+        "option": "Largest",
+        "correct": "yes"
+      },
+      {
+        "option": "None of above",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Galileo was an astronomer who discovered ________",
+    "options": [
+      {
+        "option": "Telescope",
+        "correct": "no"
+      },
+      {
+        "option": "Satellites of Jupiter",
+        "correct": "yes"
+      },
+      {
+        "option": "Pendulum",
+        "correct": "no"
+      },
+      {
+        "option": "None of above",
+        "correct": "no"
+      }
+    ],
+    "level" : "2"
+  },
+  {
+    "question": "Who among the following was known as 'Frontier Gandhi' ?",
+    "options": [
+      {
+        "option": "Rafi Ahmed Kidwai",
+        "correct": "no"
+      },
+      {
+        "option": "Abdul Gaffar Khan",
+        "correct": "yes"
+      },
+      {
+        "option": "Maulana Abdul Kalam Azad",
+        "correct": "no"
+      },
+      {
+        "option": "Sir Syed Ahmed Khan",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "Who became the ninth Indian boxer to qualify for Tokyo Olympics after a win at the Asian Qualifiers in Amman, Jordan?",
+    "options": [
+      {
+        "option": "Manish Kaushik",
+        "correct": "yes"
+      },
+      {
+        "option": "Amit Panghal",
+        "correct": "no"
+      },
+      {
+        "option": "Lovlina Borgohain",
+        "correct": "no"
+      },
+      {
+        "option": "Mary Kom",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "In 1850, the first experimental electric telegraph line in India was set up between Calcutta and which place?",
+    "options": [
+      {
+        "option": "Darjleeing",
+        "correct": "no"
+      },
+      {
+        "option": "Dhaka",
+        "correct": "no"
+      },
+      {
+        "option": "Diamond Harbour",
+        "correct": "yes"
+      },
+      {
+        "option": "Murshibad",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "Douglas Engelbert, who passed away in 2013, is credited as the inventor of which of these products?",
+    "options": [
+      {
+        "option": "Bluetooth Mouse",
+        "correct": "no"
+      },
+      {
+        "option": "Mobile Phone",
+        "correct": "no"
+      },
+      {
+        "option": "Computer Mouse",
+        "correct": "yes"
+      },
+      {
+        "option": "Digital camera",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  },
+  {
+    "question": "Who was the president of the United States during World War-I?",
+    "options": [
+      {
+        "option": "Abraham Lincoln",
+        "correct": "no"
+      },
+      {
+        "option": "Woodrow Wilson",
+        "correct": "yes"
+      },
+      {
+        "option": "Winston Churchil",
+        "correct": "no"
+      },
+      {
+        "option": "Franklin D. Roosevelt",
+        "correct": "no"
+      }
+    ],
+    "level" : "3"
+  }
+]

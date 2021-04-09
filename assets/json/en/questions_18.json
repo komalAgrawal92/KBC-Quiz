@@ -1,0 +1,361 @@
+[
+  {
+    "question": "In the Mahabharata, which army did Duryodhana choose at Dwaraka to fight on his side?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Balram Sena",
+        "correct": "no"
+      },
+      {
+        "option": "Narayani Sena",
+        "correct": "yes"
+      },
+      {
+        "option": "Vrishi Sena",
+        "correct": "no"
+      },
+      {
+        "option": "Varah Sena",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which is the only one of these Hindi film series which has not been directed by a single director?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Golmaal",
+        "correct": "no"
+      },
+      {
+        "option": "Krrish",
+        "correct": "no"
+      },
+      {
+        "option": "Race",
+        "correct": "yes"
+      },
+      {
+        "option": "Munna Bhai",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these cities is well know for the popular street snack Ragda Pattice?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Mumbai",
+        "correct": "yes"
+      },
+      {
+        "option": "Delhi",
+        "correct": "no"
+      },
+      {
+        "option": "Jaipur",
+        "correct": "no"
+      },
+      {
+        "option": "Chandigarh",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Druva and Kusha are two types of which of the following?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Seaweed",
+        "correct": "no"
+      },
+      {
+        "option": "Grass",
+        "correct": "yes"
+      },
+      {
+        "option": "Tree",
+        "correct": "no"
+      },
+      {
+        "option": "Flowers",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "What does ‘R’ stand for in the name of the educational organization NCERT?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Regional",
+        "correct": "no"
+      },
+      {
+        "option": "Review",
+        "correct": "no"
+      },
+      {
+        "option": "Research",
+        "correct": "yes"
+      },
+      {
+        "option": "Reform",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of the following sparkles due to internal reflection of light?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Radium",
+        "correct": "no"
+      },
+      {
+        "option": "Diamond",
+        "correct": "yes"
+      },
+      {
+        "option": "Gold",
+        "correct": "no"
+      },
+      {
+        "option": "Silk",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+  "question": "Which of these chains, founded by V G Siddhartha, opened its first outlet in Bengaluru in 1996?",
+  "level": "2",
+  "options": [
+    {
+      "option": "Cafe Coffee Day",
+      "correct": "yes"
+    },
+    {
+      "option": "Keventers",
+      "correct": "no"
+    },
+    {
+      "option": "MTR",
+      "correct": "no"
+    },
+    {
+      "option": "Saravana Bhavan",
+      "correct": "no"
+    }
+  ]
+},
+ 
+  {
+    "question": "Which of these mountaineers successfully scaled Mt Everest for a record 24th time in May 2019?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Apa Sherpa",
+        "correct": "no"
+      },
+      {
+        "option": "Kami Rita Shepra",
+        "correct": "yes"
+      },
+      {
+        "option": "Dachhiri Shepra",
+        "correct": "no"
+      },
+      {
+        "option": "Phurba Tashi Shepra",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "In 1941, which American businessman wrote a praise-filled letter to Mahatma Gandhi, in return of which Ghandhiji sent him a charkha?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Jean Paul Getty",
+        "correct": "no"
+      },
+      {
+        "option": "Henry Ford",
+        "correct": "yes"
+      },
+      {
+        "option": "John D Rockefeller",
+        "correct": "no"
+      },
+      {
+        "option": "Sam Walton",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Girish Chandra Murmu has been appointed the liuetenant governor of which Union Territory in October 2019?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Ladakh",
+        "correct": "no"
+      },
+      {
+        "option": "Chandigarh",
+        "correct": "no"
+      },
+      {
+        "option": "Jammu & Kashmir",
+        "correct": "yes"
+      },
+      {
+        "option": "Puducherry",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these leaders is a founder of the Jannayak Janta Party (JJP)?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Dushyant Chautala",
+        "correct": "yes"
+      },
+      {
+        "option": "Abhay Chautala",
+        "correct": "no"
+      },
+      {
+        "option": "Deepender Singh Hooda",
+        "correct": "no"
+      },
+      {
+        "option": "Captain Abhimanyu",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these leaders has never been a Union Minister?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Shashi Tharoor",
+        "correct": "no"
+      },
+      {
+        "option": "Abhishek Manu ",
+        "correct": "yes"
+      },
+      {
+        "option": "Jairam Ramesh",
+        "correct": "no"
+      },
+      {
+        "option": "Ghulam Nabi Azad",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which Indian state became the world first to start Ultra-fast Hyperloop Transportation?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Maharashtra",
+        "correct": "yes"
+      },
+      {
+        "option": "West Bengal",
+        "correct": "no"
+      },
+      {
+        "option": "Gujarat",
+        "correct": "no"
+      },
+      {
+        "option": "Telangana",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "N R Narayan  Murthy, the co-founder of Infosys, is the father-in-law of which British MP?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Seema Kennedy",
+        "correct": "no"
+      },
+      {
+        "option": "Rishi Sunak",
+        "correct": "yes"
+      },
+      {
+        "option": "Preet Gill",
+        "correct": "no"
+      },
+      {
+        "option": "Ashok Sharma",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Who is the author of the book ‘Exam Warriors’?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Manmohan Singh",
+        "correct": "no"
+      },
+      {
+        "option": "Sanjoy Hazarika",
+        "correct": "no"
+      },
+      {
+        "option": "Sheila Dikshit",
+        "correct": "no"
+      },
+      {
+        "option": "Narendra Modi",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "In 1869, who invented a way to organize all elements into a table. based on their atomic weights?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Franck Whittle",
+        "correct": "no"
+      },
+      {
+        "option": "Robert Goddard",
+        "correct": "no"
+      },
+      {
+        "option": "Dmitri Mendeleev",
+        "correct": "yes"
+      },
+      {
+        "option": "Ernst Haeckel",
+        "correct": "no"
+      }
+    ]
+  }
+]

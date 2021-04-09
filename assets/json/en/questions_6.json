@@ -1,0 +1,356 @@
+[
+
+  {
+    "question": "Which of these medical conditions is most likely to cause dehydration?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Malaria",
+        "correct": "no"
+      },
+      {
+        "option": "Tetanus",
+        "correct": "no"
+      },
+      {
+        "option": "Diarrhoea",
+        "correct": "yes"
+      },
+      {
+        "option": "Beriberi",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "What is gulab jamun a type of?",
+    "level": "1",
+    "options": [
+      {
+        "option": "A flower",
+        "correct": "no"
+      },
+      {
+        "option": "A fruit",
+        "correct": "no"
+      },
+      {
+        "option": "A tree",
+        "correct": "no"
+      },
+      {
+        "option": "A sweet",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "In the film 2 states, a Punjabi boy falls in love with a ___ girl",
+    "level": "1",
+    "options": [
+      {
+        "option": "Bengali",
+        "correct": "no"
+      },
+      {
+        "option": "Marathi",
+        "correct": "no"
+      },
+      {
+        "option": "Tamil",
+        "correct": "yes"
+      },
+      {
+        "option": "Malayali",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is a popular crisp snack prepared with besan and spices?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Bikaneri bhujia",
+        "correct": "yes"
+      },
+      {
+        "option": "Junagadhi Khandvi",
+        "correct": "no"
+      },
+      {
+        "option": "Kalkattia Sondesh",
+        "correct": "no"
+      },
+      {
+        "option": "Veg kolhapuri",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "In a circle, which of these is half of the diameter?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Area",
+        "correct": "no"
+      },
+      {
+        "option": "Circumference",
+        "correct": "no"
+      },
+      {
+        "option": "Center",
+        "correct": "no"
+      },
+      {
+        "option": "Radius",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "About whom did the poet write,” Lakshmi thi yaa Durga thi woh swayam veerta ki avatar, dekh marathe pulkit hote uski talwaaroke ke waar?”",
+    "level": "1",
+    "options": [
+      {
+        "option": "Rani Durgavati",
+        "correct": "no"
+      },
+      {
+        "option": "Jhansi ki rani",
+        "correct": "yes"
+      },
+      {
+        "option": "Rani Ahilyabai Holkar",
+        "correct": "no"
+      },
+      {
+        "option": "Rani Padmavati",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which Indian State is earlier known as “Magadha”?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Madhya pradesh",
+        "correct": "no"
+      },
+      {
+        "option": "Bihar",
+        "correct": "yes"
+      },
+      {
+        "option": "Karnataka",
+        "correct": "no"
+      },
+      {
+        "option": "Uttar Pradesh",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these are names of national parks located in Madhya Pradesh?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Krishna and Kanhaiya",
+        "correct": "no"
+      },
+      {
+        "option": "Kanha and Madhav",
+        "correct": "yes"
+      },
+      {
+        "option": "Ghanshyam and Murari",
+        "correct": "no"
+      },
+      {
+        "option": "Girdhar and Gopal",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "The wife of which of these famous sports persons was once captain of Indian volleyball team?",
+    "level": "2",
+    "options": [
+      {
+        "option": "K.D.Jadav",
+        "correct": "no"
+      },
+      {
+        "option": "Dhyan Chand",
+        "correct": "no"
+      },
+      {
+        "option": "Prakash Padukone",
+        "correct": "no"
+      },
+      {
+        "option": "Milkha Singh",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these sports requires you to shout out a word loudly during play?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Ludo",
+        "correct": "no"
+      },
+      {
+        "option": "Kho-kho",
+        "correct": "yes"
+      },
+      {
+        "option": "Playing cards",
+        "correct": "no"
+      },
+      {
+        "option": "Chess",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "What kind of creature was Bakasur, whom Kansa sent to kill Sri Krishna in his childhood?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Bird",
+        "correct": "yes"
+      },
+      {
+        "option": "Snake",
+        "correct": "no"
+      },
+      {
+        "option": "Lizard",
+        "correct": "no"
+      },
+      {
+        "option": "Deer",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Where did Homi Jehangir Bhaba, the principal architect of India’s nuclear program, die in a plane crash?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Monte Rosa",
+        "correct": "no"
+      },
+      {
+        "option": "Mount Ararat",
+        "correct": "no"
+      },
+      {
+        "option": "Mount Elbrus",
+        "correct": "no"
+      },
+      {
+        "option": "Mont Blanc",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these countries is larger than India in territorial space?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Australia",
+        "correct": "yes"
+      },
+      {
+        "option": "Argentina",
+        "correct": "no"
+      },
+      {
+        "option": "Kazakhstan",
+        "correct": "no"
+      },
+      {
+        "option": "UAE",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Who recently became the first woman director in the board of Reliance Industries?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Kokilaben Ambani",
+        "correct": "no"
+      },
+      {
+        "option": "Deepti Salgaonkar",
+        "correct": "no"
+      },
+      {
+        "option": "Nitu Ambani",
+        "correct": "yes"
+      },
+      {
+        "option": "Nina Kothari",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Who is the first retired chief justice of India to become governor of a state?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Altamas Kabir",
+        "correct": "no"
+      },
+      {
+        "option": "K G Balakrishnan",
+        "correct": "no"
+      },
+      {
+        "option": "SH Kapadia",
+        "correct": "no"
+      },
+      {
+        "option": "P Sathasivam",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "On the sacred day of Mauni Amavas the vow of not doing what is taken?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Sleeping",
+        "correct": "no"
+      },
+      {
+        "option": "Walking",
+        "correct": "no"
+      },
+      {
+        "option": "Speaking",
+        "correct": "yes"
+      },
+      {
+        "option": "Sitting",
+        "correct": "no"
+      }
+    ]
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "question": "Which of these brand names also means \"one-billionth part of something\"?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Nano",
+        "correct": "yes"
+      },
+      {
+        "option": "Vista",
+        "correct": "no"
+      },
+      {
+        "option": "Bolt",
+        "correct": "no"
+      },
+      {
+        "option": "Sumo",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "who is the father of computer? ",
+    "level": "1",
+    "options": [
+      {
+        "option": "James Gosling",
+        "correct": "no"
+      },
+      {
+        "option": "Charles Babbage",
+        "correct": "yes"
+      },
+      {
+        "option": "Douglas Engelbart",
+        "correct": "no"
+      },
+      {
+        "option": "James D. Foley",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which aspect about a person is known by the words ‘natkhat’ and ‘manmauji’?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Height",
+        "correct": "no"
+      },
+      {
+        "option": "Nature",
+        "correct": "yes"
+      },
+      {
+        "option": "Skin colour",
+        "correct": "no"
+      },
+      {
+        "option": "Marital status",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "In Hindu marriages what do bridal couples exchange at mandaps?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Mobile numbers",
+        "correct": "no"
+      },
+      {
+        "option": "Jalebis",
+        "correct": "no"
+      },
+      {
+        "option": "Visiting cards",
+        "correct": "no"
+      },
+      {
+        "option": "Garlands",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is measured with the help of a glucometer?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Heartbeat",
+        "correct": "no"
+      },
+      {
+        "option": "Blood pressure",
+        "correct": "no"
+      },
+      {
+        "option": "Blood sugar",
+        "correct": "yes"
+      },
+      {
+        "option": "Vision",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "How many watts equal a megawatt?",
+    "level": "1",
+    "options": [
+      {
+        "option": "One hundred",
+        "correct": "no"
+      },
+      {
+        "option": "Ten Lakh",
+        "correct": "yes"
+      },
+      {
+        "option": "Ten thousand",
+        "correct": "no"
+      },
+      {
+        "option": "One lakh",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Who is the only MP in the current Lok Sabha who is also an Olympic medalist?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Abhinav Bindra",
+        "correct": "no"
+      },
+      {
+        "option": "Rajyavardan Singh Rathore",
+        "correct": "yes"
+      },
+      {
+        "option": "Karnam Maleshwari",
+        "correct": "no"
+      },
+      {
+        "option": "Gagan Narang",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "In a 2014 film, Vidya Balan’s character Bilkis Ahmed is also known by what other name?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Babli Badmash",
+        "correct": "no"
+      },
+      {
+        "option": "Bobby Jasoos",
+        "correct": "yes"
+      },
+      {
+        "option": "Bebo Badmash",
+        "correct": "no"
+      },
+      {
+        "option": "Baby Doll",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which queen did Draupadi,the wife of five pandavas, serve in the guise of Sairandhri for one year?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Sanjana",
+        "correct": "no"
+      },
+      {
+        "option": "Satyavati",
+        "correct": "no"
+      },
+      {
+        "option": "Satyabhama",
+        "correct": "no"
+      },
+      {
+        "option": "Sudeshna",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "In a flowering plant, which of these carries the reproductive organs?",
+    "level": "2",
+    "options": [
+      {
+        "option": "Leaf",
+        "correct": "no"
+      },
+      {
+        "option": "Root",
+        "correct": "no"
+      },
+      {
+        "option": "Bark",
+        "correct": "no"
+      },
+      {
+        "option": "Flower",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": ".gif is an extension of",
+    "level": "2",
+    "options": [
+      {
+        "option": "Image file",
+        "correct": "yes"
+      },
+      {
+        "option": "Video file",
+        "correct": "no"
+      },
+      {
+        "option": "Audio file",
+        "correct": "no"
+      },
+      {
+        "option": "Word file",
+        "correct": "no"
+      }
+    ]
+  },
+
+
+  {
+    "question": "Which Hindi author was awarded the 2013 Jnanpith Award?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Namvar Singh",
+        "correct": "no"
+      },
+      {
+        "option": "Kedarnath Singh",
+        "correct": "yes"
+      },
+      {
+        "option": "Manohar Shyam Joshi",
+        "correct": "no"
+      },
+      {
+        "option": "Mannu Bhandari",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which astronomer was the first to observe the rings around Saturn?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Galileo Galilei",
+        "correct": "yes"
+      },
+      {
+        "option": "Johannes Kepner",
+        "correct": "no"
+      },
+      {
+        "option": "Nicholas Copernicus",
+        "correct": "no"
+      },
+      {
+        "option": "Edwin Hubble",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Who is known as the father of internet? ",
+    "level": "3",
+    "options": [
+      {
+        "option": "Alan Perlis",
+        "correct": "no"
+      },
+      {
+        "option": "Jean E. Sammet",
+        "correct": "no"
+      },
+      {
+        "option": "Vint Cerf",
+        "correct": "yes"
+      },
+      {
+        "option": "Steve Lawrence",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "In which of these sports are the terms reverse swing and reverse sweep used?",
+    "level": "3",
+    "options": [
+      {
+        "option": "Football",
+        "correct": "no"
+      },
+      {
+        "option": "Cricket",
+        "correct": "yes"
+      },
+      {
+        "option": "Badminton",
+        "correct": "no"
+      },
+      {
+        "option": "Tennis",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "What is the famous chickankari in Lucknow a type of?",
+    "level": "",
+    "options": [
+      {
+        "option": "Chicken kebab",
+        "correct": "no"
+      },
+      {
+        "option": "Calligraphy",
+        "correct": "no"
+      },
+      {
+        "option": "Embroidery",
+        "correct": "yes"
+      },
+      {
+        "option": "Bamboo chick blinds",
+        "correct": "no"
+      }
+    ]
+  }
+]

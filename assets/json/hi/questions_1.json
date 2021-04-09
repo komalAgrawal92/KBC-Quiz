@@ -1,0 +1,355 @@
+[
+  {
+    "question": "किस स्थान का नाम फिल्म “मनिकर्नाका: द क्वीन ऑफ़ ______” के शीर्षक में आता है?",
+    "options": [
+      {
+        "option": "ग्वालियर",
+        "correct": "no"
+      },
+      {
+        "option": "मांडू",
+        "correct": "no"
+      },
+      {
+        "option": "काशी",
+        "correct": "no"
+      },
+      {
+        "option": "झाँसी",
+        "correct": "yes"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "question": "हिंदी मुहावरे “नो दो ग्यारह होना” में प्रयोग हुई संख्याओ को जोड़ने पर कुल योग कितना होगा?",
+    "options": [
+      {
+        "option": "9",
+        "correct": "no"
+      },
+      {
+        "option": "2",
+        "correct": "no"
+      },
+      {
+        "option": "22",
+        "correct": "yes"
+      },
+      {
+        "option": "11",
+        "correct": "no"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "question": "भारतीय पौराणिक मान्यता के अनुसार कल्पतरु या पारिजात क्या है?",
+    "options": [
+      {
+        "option": "इंद्र का घोडा",
+        "correct": "no"
+      },
+      {
+        "option": "उच्च गति रथ",
+        "correct": "no"
+      },
+      {
+        "option": "इच्छा पूर्ति करने वाली गाय",
+        "correct": "no"
+      },
+      {
+        "option": "कामना-पूर्ति करने वाला वृक्ष",
+        "correct": "yes"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "question": "इनमे से कौन सा सिन्धु घाटी सभ्यता स्थल गुजरात में स्थित नहीं है?",
+    "options": [
+      {
+        "option": "राखीगढ़ी",
+        "correct": "yes"
+      },
+      {
+        "option": "धोलवीरा",
+        "correct": "no"
+      },
+      {
+        "option": "रंगपुर",
+        "correct": "no"
+      },
+      {
+        "option": "लोथल",
+        "correct": "no"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "question": "इनमे से किस जानवर के दूध में वसा (Fat) की सबसे अधिक मात्रा पायी जाती है?",
+    "options": [
+      {
+        "option": "बकरी",
+        "correct": "no"
+      },
+      {
+        "option": "भेंस",
+        "correct": "yes"
+      },
+      {
+        "option": "गाय",
+        "correct": "no"
+      },
+      {
+        "option": "ऊंट",
+        "correct": "no"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "question": "किस टीम ने T-20 इंटरनेशनल क्रिकेट में 278 रन का विश्व रिकॉर्ड बनाया?",
+    "options": [
+      {
+        "option": "ऑस्ट्रेलिया",
+        "correct": "no"
+      },
+      {
+        "option": "अफगानिस्तान",
+        "correct": "yes"
+      },
+      {
+        "option": "भारत",
+        "correct": "no"
+      },
+      {
+        "option": "आयरलैंड",
+        "correct": "no"
+      }
+    ],
+    "level": "2"
+  },
+  {
+    "question": "भारतीय रेलवे द्वारा निर्मित “रेल नीर” क्या है?",
+    "options": [
+      {
+        "option": "पैक किया गया पेयजल",
+        "correct": "yes"
+      },
+      {
+        "option": "टिकट सेवा",
+        "correct": "no"
+      },
+      {
+        "option": "नाश्ता",
+        "correct": "no"
+      },
+      {
+        "option": "वाई-फाई सेवा",
+        "correct": "no"
+      }
+    ],
+    "level": "1"
+  },
+  {
+    "question": "इनमे से किस राज्य में सूर्योदय और सूर्यास्त, अन्य तीनो राज्यों से पहले होता है?",
+    "level": "2",
+    "options": [
+      {
+        "option": "गुजरात",
+        "correct": "no"
+      },
+      {
+        "option": "बिहार",
+        "correct": "no"
+      },
+      {
+        "option": "सिक्किम",
+        "correct": "no"
+      },
+      {
+        "option": "अरुणाचल प्रदेश",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "इनमे से कौन सा हिन्दू पौराणिक पात्र एक नाग नहीं है?",
+    "level": "2",
+    "options": [
+      {
+        "option": "वासुकी",
+        "correct": "no"
+      },
+      {
+        "option": "तक्षक",
+        "correct": "no"
+      },
+      {
+        "option": "आदिशेष",
+        "correct": "no"
+      },
+      {
+        "option": "सम्पाती",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "इनमे से कौन से उद्योगपति भारत में अपनी व्यक्तिगत संपत्ति का दान करने वाले सबसे बड़े दाता है?",
+    "level": "2",
+    "options": [
+      {
+        "option": "रतन टाटा",
+        "correct": "no"
+      },
+      {
+        "option": "शिव नाडर",
+        "correct": "no"
+      },
+      {
+        "option": "मुकेश अम्बानी",
+        "correct": "no"
+      },
+      {
+        "option": "अजीम प्रेमजी",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "जीका वायरस किसके द्वारा फैलता है?",
+    "options": [
+      {
+        "option": "एडीज मच्छर",
+        "correct": "yes"
+      },
+      {
+        "option": "सत्सी मक्खी",
+        "correct": "no"
+      },
+      {
+        "option": "बालू मक्खी",
+        "correct": "no"
+      },
+      {
+        "option": "एनोफ्लिज मच्छर",
+        "correct": "no"
+      }
+    ],
+    "level": "2"
+  },
+  {
+    "question": "इनमे से कौन सा राज्य भारत के उत्तर-पूर्वी राज्यों के “सातो बहनों” का भाग नहीं है?",
+    "options": [
+      {
+        "option": "मिजोरम",
+        "correct": "no"
+      },
+      {
+        "option": "असम",
+        "correct": "no"
+      },
+      {
+        "option": "सिक्किम",
+        "correct": "yes"
+      },
+      {
+        "option": "नागालैंड",
+        "correct": "no"
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "question": "2019 में किसने फ्रेंच ओपन में पुरुष एकल का 12वा ख़िताब अपने नाम किया?",
+    "level": "3",
+    "options": [
+      {
+        "option": "रोजर फेडरर",
+        "correct": "no"
+      },
+      {
+        "option": "राफेल नडाल",
+        "correct": "yes"
+      },
+      {
+        "option": "डोमिनो थियम",
+        "correct": "no"
+      },
+      {
+        "option": "नोवाक जोकोविच",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "किस देश ने यूएसए (अमेरिका) को “स्टेचू और लिबर्टी” उपहार स्वरुप दिया था?",
+    "options": [
+      {
+        "option": "जर्मनी",
+        "correct": "no"
+      },
+      {
+        "option": "फ्रांस",
+        "correct": "yes"
+      },
+      {
+        "option": "रूस",
+        "correct": "no"
+      },
+      {
+        "option": "इटली",
+        "correct": "no"
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "question": "पुरुष क्रिकेट विश्व कप के हेट्रिक लेने वाले पहले व्यक्ति कौन थे?",
+    "options": [
+      {
+        "option": "सक्लेन मुश्ताक",
+        "correct": "no"
+      },
+      {
+        "option": "चमिंडा वास",
+        "correct": "no"
+      },
+      {
+        "option": "सक्लेन मुश्ताक",
+        "correct": "no"
+      },
+      {
+        "option": "चेतन शर्मा",
+        "correct": "yes"
+      }
+    ],
+    "level": "3"
+  },
+  {
+    "question": "भारतीय विज्ञान कांग्रेस के उदघाटन सत्र के पहले राष्ट्रपति कौन थे?",
+    "level": "3",
+    "options": [
+      {
+        "option": "आशुतोष मुखर्जी",
+        "correct": "yes"
+      },
+      {
+        "option": "सी.वी रमन",
+        "correct": "no"
+      },
+      {
+        "option": "होमी जे भाभा",
+        "correct": "no"
+      },
+      {
+        "option": "सर जे.सी बोस",
+        "correct": "no"
+      }
+    ]
+  }
+]

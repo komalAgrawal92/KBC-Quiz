@@ -1,0 +1,369 @@
+[
+
+  {
+    "question": "Which of these animals does not have any bones?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Snake",
+        "correct": "no"
+      },
+      {
+        "option": "Dolphin",
+        "correct": "no"
+      },
+      {
+        "option": "Seal",
+        "correct": "no"
+      },
+      {
+        "option": "Jellyfish",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "Who is Allah Rakha in the film “Coolie”?",
+    "level": "1",
+    "options": [
+      {
+        "option": "A Cat",
+        "correct": "no"
+      },
+      {
+        "option": "elephant",
+        "correct": "no"
+      },
+      {
+        "option": "A bird",
+        "correct": "yes"
+      },
+      {
+        "option": "A Dog",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "According to the Mahabharata, whom did Duryodhana challenge to play a game of dice?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Bhima",
+        "correct": "no"
+      },
+      {
+        "option": "Arjuna",
+        "correct": "no"
+      },
+      {
+        "option": "Yudhishthira",
+        "correct": "yes"
+      },
+      {
+        "option": "Sahadeva",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "According to a popular children’s fable , who when unable to get grapes from the vine, says “the grapes are sour”?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Crow",
+        "correct": "no"
+      },
+      {
+        "option": "Fox",
+        "correct": "yes"
+      },
+      {
+        "option": "Parrot",
+        "correct": "no"
+      },
+      {
+        "option": "Squirrel",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these dishes is principally associated with Rajasthan?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Undhiyu",
+        "correct": "no"
+      },
+      {
+        "option": "Gushaba",
+        "correct": "no"
+      },
+      {
+        "option": "Dal Baati",
+        "correct": "yes"
+      },
+      {
+        "option": "Masala Dosa",
+        "correct": "no"
+      }
+    ]
+  },
+
+
+    {
+      "question": "With reference to telecommunication in India, what does 'D' stands for",
+      "level": "1",
+      "options": [
+        {
+          "option": "stand for in STD and ISD?",
+          "correct": "no"
+        },
+        {
+          "option": "Dailling",
+          "correct": "yes"
+        },
+        {
+          "option": "Data",
+          "correct": "no"
+        },
+        {
+          "option": "Distance",
+          "correct": "no"
+        }
+      ]
+    },
+    {
+      "question": "Which of these was first held in 1951-52 in India?",
+      "level":"2",
+      "options": [
+        {
+          "option": "Census",
+          "correct": "no"
+        },
+        {
+          "option": "Commonwealth Games",
+          "correct": "no"
+        },
+        {
+          "option": "General Elections",
+          "correct": "yes"
+        },
+        {
+          "option": "States Reorganisation",
+          "correct": "no"
+        }
+      ]
+    },
+
+    {
+      "question": "In the Valmiki Ramayana, which headless rakshasa or demon seizes Rama and Lakshman in Dandaka forest when they head south after cremanting Jatayu?",
+      "level":"2",
+      "options": [
+        {
+          "option": "Ayomukhi",
+          "correct": "no"
+        },
+        {
+          "option": "Kabandha",
+          "correct": "yes"
+        },
+        {
+          "option": "Khara",
+          "correct": "no"
+        },
+        {
+          "option": "Dushana",
+          "correct": "no"
+        }
+      ]
+    },
+
+    {
+      "question": "Which of these pairs of kings and their court poets is matched incorrectly?",
+      "level":"2",
+      "options": [
+        {
+          "option": "Akbar – Faizi",
+          "correct": "no"
+        },
+        {
+          "option": "Bahadur Shah II – Mirza Ghalib",
+          "correct": "no"
+        },
+        {
+          "option": "Bahadur Shah II – Zauq",
+          "correct": "no"
+        },
+        {
+          "option": "Vikramaditya – Banabhatta",
+          "correct": "yes"
+        }
+      ]
+    },
+
+    {
+      "question": "In the Valmiki Ramayana, from which tree at the Ashok Vatika did Hanuman first start speaking about Rama to Sita?",
+      "level":"2",
+      "options": [
+        {
+          "option": "Saptaparni",
+          "correct": "no"
+        },
+        {
+          "option": "Shimshapa",
+          "correct": "yes"
+        },
+        {
+          "option": "Arjuna",
+          "correct": "no"
+        },
+        {
+          "option": "Karnika",
+          "correct": "no"
+        }
+      ]
+    },
+
+    {
+      "question": "In which of these competitions or series is the form of cricket played the shortest?",
+      "level":"2",
+      "options": [
+        {
+          "option": "ICC WOrld Cup",
+          "correct": "no"
+        },
+        {
+          "option": "Ranji Trophy",
+          "correct": "no"
+        },
+        {
+          "option": "Border-Gavaskar Trophy",
+          "correct": "no"
+        },
+        {
+          "option": "IPL",
+          "correct": "yes"
+        }
+      ]
+    },
+
+    {
+      "question": "To take up a legal matter on behalf of which firm did Mohandas  Karamchand Gandhi go to South Africa in 1893?",
+      "level":"3",
+      "options": [
+        {
+          "option": "THK Mohammad and Co",
+          "correct": "no"
+        },
+        {
+          "option": "Dada Abdullah and Co",
+          "correct": "yes"
+        },
+        {
+          "option": "Moosa Amod and Co",
+          "correct": "no"
+        },
+        {
+          "option": "Merchant Trust",
+          "correct": "no"
+        }
+      ]
+    },
+
+    {
+      "question": "Who was the first captain of India’s national football team after Independence?",
+      "level":"3",
+      "options": [
+        {
+          "option": "Talimeren Ao",
+          "correct": "yes"
+        },
+        {
+          "option": "Sailen Manna",
+          "correct": "no"
+        },
+        {
+          "option": "P K Banerjee",
+          "correct": "no"
+        },
+        {
+          "option": "Prasun Banerjee",
+          "correct": "no"
+        }
+      ]
+    },
+
+    {
+      "question": "Which was the first British satellite to have been launched successfully by a British rocket?",
+      "level":"3",
+      "options": [
+        {
+          "option": "Ariel 1",
+          "correct": "no"
+        },
+        {
+          "option": "Prospero",
+          "correct": "yes"
+        },
+        {
+          "option": "Miranda",
+          "correct": "no"
+        },
+        {
+          "option": "Zircon",
+          "correct": "no"
+        }
+      ]
+    },
+
+    {
+      "question": "Who is the first cricketer to score two T20 International fifties on the same day in two different matches?",
+      "level":"3",
+      "options": [
+        {
+          "option": "Nawroz Mangal",
+          "correct": "no"
+        },
+        {
+          "option": "Mohammad Hafeez",
+          "correct": "no"
+        },
+        {
+          "option": "Mohammad Shahzad",
+          "correct": "yes"
+        },
+        {
+          "option": "Shakib",
+          "correct": "no"
+        }
+      ]
+    },
+    {
+      "question": "Who captained the Indian hockey team that won the gold medal at the 1980 Summer Olympics in Moscow?",
+      "level":"3",
+      "options": [
+        {
+          "option": "Surinder Singh Sodhi",
+          "correct": "no"
+        },
+        {
+          "option": "Vasudevan Baskaran",
+          "correct": "yes"
+        },
+        {
+          "option": "M K Kaushik",
+          "correct": "no"
+        },
+        {
+          "option": "M M Somaya",
+          "correct": "no"
+        }
+      ]
+    }
+  ]

@@ -1,0 +1,365 @@
+[
+
+  {
+    "question": "According to the Ramayana, who asked Rama to give proof of his skill at archery before agreeing to help him?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Vibhishana",
+        "correct": "no"
+      },
+      {
+        "option": "Kabandha",
+        "correct": "no"
+      },
+      {
+        "option": "Sugriva",
+        "correct": "yes"
+      },
+      {
+        "option": "Hanuman",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Who made her debut as a lead actress in a movie titled “Aishwarya”?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Aishwarya Rai",
+        "correct": "no"
+      },
+      {
+        "option": "Deepika Padukone",
+        "correct": "yes"
+      },
+      {
+        "option": "Priyanka Chopra",
+        "correct": "no"
+      },
+      {
+        "option": "Sonam Kapoor",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is the title of a 2018 film starring John Abraham and Manoj Bajpayee?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Satyameva Jayate",
+        "correct": "yes"
+      },
+      {
+        "option": "Force",
+        "correct": "no"
+      },
+      {
+        "option": "Aiyaary",
+        "correct": "no"
+      },
+      {
+        "option": "Jai Hind",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these following is not a reaction you can give on a Facebook post?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Angry",
+        "correct": "no"
+      },
+      {
+        "option": "Like",
+        "correct": "no"
+      },
+      {
+        "option": "Sad",
+        "correct": "no"
+      },
+      {
+        "option": "Confused",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "Which of these aquatic creatures is not a fish?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Rohu",
+        "correct": "no"
+      },
+      {
+        "option": "Katla",
+        "correct": "no"
+      },
+      {
+        "option": "Seahorse",
+        "correct": "no"
+      },
+      {
+        "option": "Starfish",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "According to Puranas, which goddess is also known as Jaladhija and Padmalayaa?",
+    "level": "1",
+    "options": [
+      {
+        "option": "Saraswati",
+        "correct": "no"
+      },
+      {
+        "option": "Lakshmi",
+        "correct": "yes"
+      },
+      {
+        "option": "Durga",
+        "correct": "no"
+      },
+      {
+        "option": "Katyayani",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Who is the first wrestler to win the Rajiv Gandhi Khel Ratna?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Yogeshwar Dutt",
+        "correct": "no"
+      },
+      {
+        "option": "Sushil Kumar",
+        "correct": "no"
+      },
+      {
+        "option": "Bajrang Punia",
+        "correct": "yes"
+      },
+      {
+        "option": "Amit Kumar",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "The name of which of these diseases completes the name of Mycobacterium ________, the bacteria that causes it?\n",
+    "level":"2",
+    "options": [
+      {
+        "option": "Flu",
+        "correct": "no"
+      },
+      {
+        "option": "Common Cold",
+        "correct": "no"
+      },
+      {
+        "option": "Malaria",
+        "correct": "no"
+      },
+      {
+        "option": "Tuberculosis",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "How do we better know rapper Dilin Nair?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Divine",
+        "correct": "no"
+      },
+      {
+        "option": "Emiway",
+        "correct": "no"
+      },
+      {
+        "option": "Pardhaan",
+        "correct": "no"
+      },
+      {
+        "option": "Raftaar",
+        "correct": "yes"
+      }
+    ]
+  },
+  {
+    "question": "According to Puranas, what is Brahma’s abode called?",
+    "level":"2",
+    "options": [
+      {
+        "option": "Vaikunth",
+        "correct": "no"
+      },
+      {
+        "option": "Alakapuri",
+        "correct": "no"
+      },
+      {
+        "option": "Himadri",
+        "correct": "no"
+      },
+      {
+        "option": "Satyaloka",
+        "correct": "yes"
+      }
+    ]
+  },
+
+  {
+    "question": "In India, which of these days is not observed to commemorate a birth anniversary?",
+    "level":"2",
+    "options": [
+      {
+        "option": "National Youth Day",
+        "correct": "no"
+      },
+      {
+        "option": "National Sports Day",
+        "correct": "no"
+      },
+      {
+        "option": "National Science Day",
+        "correct": "yes"
+      },
+      {
+        "option": "National Doctor’s Day",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these is not the name of an infantry regiment of the Indian Army?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Madras Regiment",
+        "correct": "no"
+      },
+      {
+        "option": "Ladakh Scouts Regiments",
+        "correct": "no"
+      },
+      {
+        "option": "Kalinga Regiment",
+        "correct": "yes"
+      },
+      {
+        "option": "Naga Regiment",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "Who was the top crude oil supplier to India in 2018-19 fiscal year?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Iraq",
+        "correct": "yes"
+      },
+      {
+        "option": "Iran",
+        "correct": "no"
+      },
+      {
+        "option": "Saudi Arabia",
+        "correct": "no"
+      },
+      {
+        "option": "UAE",
+        "correct": "no"
+      }
+    ]
+  },
+
+  {
+    "question": "In February 2019, who became the first bowler in T20I history to take 4 wickets in 4 consecutive balls?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Lasith Malinga",
+        "correct": "no"
+      },
+      {
+        "option": "Kuldeep Yadav",
+        "correct": "no"
+      },
+      {
+        "option": "Rashid Khan",
+        "correct": "yes"
+      },
+      {
+        "option": "Trent Boult",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "The Chandrayaan 2 mission attempted a landing on which part of the Moon?",
+    "level":"3",
+    "options": [
+      {
+        "option": "South Pole",
+        "correct": "yes"
+      },
+      {
+        "option": "Copernicus crater",
+        "correct": "no"
+      },
+      {
+        "option": "North Pole",
+        "correct": "no"
+      },
+      {
+        "option": "Plato Crater",
+        "correct": "no"
+      }
+    ]
+  },
+  {
+    "question": "Which of these angles is believed to have revealed the divine message to the Quran to Prophet Mohammad?",
+    "level":"3",
+    "options": [
+      {
+        "option": "Azrael",
+        "correct": "no"
+      },
+      {
+        "option": "Jibril",
+        "correct": "yes"
+      },
+      {
+        "option": "Mikail",
+        "correct": "no"
+      },
+      {
+        "option": "Darda’il",
+        "correct": "no"
+      }
+    ]
+  }
+]
